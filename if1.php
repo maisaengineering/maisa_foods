@@ -11,7 +11,7 @@
     <div class="container">
     <?php include 'header.php'; ?>
 	<div>
-		<img src="images/IF1.png" width="970px">
+		<img src="images/IF1.jpg" width="970px">
 	</div>
 	<br>
 	<div class="products">
@@ -20,7 +20,7 @@
              <ul>
                  <li class="linkleft1">
      	            <a href="#" title="Chicken Nuggets">
-     		         <img src="images/desp.png">
+     		         <img src="images/desp.jpg">
       		        <em style="margin-left:110px">Description</em>
       		        <span><b>Maisa Chicken Nuggets</b> </span></a>
 

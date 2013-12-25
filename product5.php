@@ -11,7 +11,7 @@
     <div class="container">
     <?php include 'header.php'; ?>
     	<div>
-		<img src="images/p5.png" width="970px">
+		<img src="images/p5.jpg" width="970px">
 	</div>
 	<br>
 	<div class="products">
@@ -20,7 +20,7 @@
              <ul>
                  <li class="linkleft1">
      	            <a href="#" title="Biryani Masala">
-     		        <img src="images/desp.png">
+     		        <img src="images/desp.jpg">
       		        <em style="margin-left:110px">Description</em>
       		        <span><b>Maisa Biryani Masala</b> is made from selected spices and is prepared under most hygienic conditions.<b>Maisa Biryani Masala</b> makes very dish tastes special with its rich aroma and flavour.It is a perfect blend of spices so as you can use it in all types of Biryanis.</span></a>
 

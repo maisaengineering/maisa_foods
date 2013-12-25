@@ -11,7 +11,7 @@
     <div class="container">
     <?php include 'header.php'; ?>
   <div>
-		<img src="images/p1.png" width="970px">
+		<img src="images/p1.jpg" width="970px">
 	</div>
 	<br>
 	<div class="products">
@@ -20,7 +20,7 @@
              <ul>
                  <li class="linkleft1">
      	            <a href="#" title="Garam Masala">
-     		          <img src="images/desp.png">
+     		          <img src="images/desp.jpg">
       		        <em style="margin-left:110px">Description</em>
       		        <span><b>Maisa Garam Masala</b> is made from selected spices and is prepared under most hygienic conditions.<b>Maisa Garam Masala</b> makes very dish tastes special with its rich aroma and flavour.It is a perfect blend of spices so as you can use it in all types of curries.Add <b>Maisa Garam Masala</b> just before you finish cooking to ensure that its subtle flavour and aroma are retained.</span></a>
 

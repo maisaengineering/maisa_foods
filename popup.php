@@ -5,11 +5,11 @@ session_start();
       <div style="width: 2000px; height: 2000px; display: none; opacity: 0.7;" id="mask"></div>
          <div style="" id="dialog" class="window">
              <div align="right" style="font-weight:bold; margin:5px 3px 0 0;"><a href="javascript:void()" class="close">
-                <img src="images/close1.png" width="16" style="border:none; cursor:pointer;" /></a>
+                <img src="images/close1.jpg" width="16" style="border:none; cursor:pointer;" /></a>
              </div>
             <div align="center" style="margin:6px 0 5px 0;">
                  
-              <a href="Order"><img src="images/popup.png"width="910"></a>
+              <a href="Order"><img src="images/popup.jpg"width="910"></a>
             </div>
             <!-- Mask to cover the whole screen -->
           </div>

@@ -13,7 +13,7 @@
 
 
 <div id="center_block">
-      <img src="images/slide_one.png" title="">
+      <img src="images/slide_one.jpg" title="">
 </div>
 <div class="products">
   <div style="background-color:#CE212D;"><h1 style="color:#ffffff;margin:10px;">Instant Foods</h1></div>
@@ -22,7 +22,7 @@
         <ul>
                  <li class="linkleft1">
                   <a href="If1.php" title="Chicken Nuggets">
-                <img src="images/nuggets.png" width="178" height="267">
+                <img src="images/nuggets.jpg" width="178" height="267">
                   <em>Chicken Nuggets</em>
                   <span><b>Maisa Chicken Nuggets</b> </span></a>
 
@@ -36,7 +36,7 @@
           <ul>
                  <li class="linkleft1">
                   <a href="Product2" title="Chicken 65 Kabab Masala">
-                <img src="img/masala4.png" width="178" height="267">
+                <img src="img/masala4.jpg" width="178" height="267">
                   <em>Chicken 65 Kabab Masala</em>
                   <span><b>Maisa Chicken 65 Kabab Masala</b> is made from selected spices and is prepared under most hygienic conditions.</span></a>
 

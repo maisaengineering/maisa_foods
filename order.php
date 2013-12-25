@@ -30,7 +30,7 @@
 	        <textarea name="delivery_address"></textarea><br>
 
 	        
-<input type="image" src="images/submit.png" name="submit" id="submit" value="Submit" /><input type="hidden" id="spam_code" name="spam_code" value="Captcha Code Here"  />
+<input type="image" src="images/submit.jpg" name="submit" id="submit" value="Submit" /><input type="hidden" id="spam_code" name="spam_code" value="Captcha Code Here"  />
 	    </form>
 	</div> 
 </div>

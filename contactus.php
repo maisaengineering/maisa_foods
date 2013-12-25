@@ -11,7 +11,7 @@
 		<div class="container">
 		<?php include 'header.php'; ?>
 		<div id="center_block">
-	       <img src="images/contact.png" width="900" height="350" style="border-radius: 20px;margin:35px">
+	       <img src="images/contact.jpg" width="900" height="350" style="border-radius: 20px;margin:35px">
         </div>
         <div class="clear"></div>
 		<?php include 'footer.php'; ?>

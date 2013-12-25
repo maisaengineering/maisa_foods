@@ -15,7 +15,7 @@
     <br>
     <div class="block_content">
     <br>	
-    	<img src="images/about_maisa.png">
+    	<img src="images/about_maisa.jpg">
 	<br>
 	    <div style="margin:10px;color:#000">
 	    	<ul>

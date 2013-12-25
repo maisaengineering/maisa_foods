@@ -11,7 +11,7 @@
     <div class="container">
     <?php include 'header.php'; ?>
 	<div>
-		<img src="images/p6.png" width="970px">
+		<img src="images/p6.jpg" width="970px">
 	</div>
 	<br>
 	<div class="products">
@@ -20,7 +20,7 @@
              <ul>
                  <li class="linkleft1">
      	            <a href="#" title="Chicken Masala">
-     		        <img src="images/desp.png">
+     		        <img src="images/desp.jpg">
       		        <em style="margin-left:110px">Description</em>
       		        <span><b>Maisa Chicken Masala</b> is made from selected spices and is prepared under most hygienic conditions.<b>Maisa Chicken Masala</b> makes very dish tastes special with its rich aroma and flavour. It can be used for other Veg./Non-veg. Recipes also.</span></a>
 

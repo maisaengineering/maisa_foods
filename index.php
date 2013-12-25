@@ -22,7 +22,7 @@ session_start();
 <div style="margin-left: 6px;">	
 <div class="block_one">
 	<br>
-	<img src="images/about_maisa.png">
+	<img src="images/about_maisa.jpg">
 	<br>
 	    <div style="margin:10px;color:#000">
 	    	<ul>
@@ -49,7 +49,7 @@ session_start();
 </div>	
 <div class="block_two">
 	<br>
-	<img src="images/products.png">
+	<img src="images/products.jpg">
 	<br>
 	<div style="margin:10px;color:#000">
 	    	<ul>
@@ -62,12 +62,12 @@ session_start();
 <!-- lightbox -->
 <div class="block_three">
 	<br>
-	<img src="images/coupons.png">
+	<img src="images/coupons.jpg">
 	<br>
 	<br>
     <script src="js/lightbox.js" type="text/javascript"></script>
     <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
-    <a href="images/c1.png" rel="lightbox" title="Print This Coupon"><img src="images/c1.png" width="300" height="90"></a>
+    <a href="images/c1.jpg" rel="lightbox" title="Print This Coupon"><img src="images/c1.jpg" width="300" height="90"></a>
 </div>
 <br>
 </div>
@@ -130,10 +130,10 @@ session_start();
 	</script>
 <div id="boxes">
           <div style="top:150px; left: 551.5px; display: none;" id="dialog" class="window">
-    <div align="right" style="font-weight:bold; margin:5px 3px 0 0;"><a href="javascript:void()" class="close"><img src="images/close.png" width="16" style="border:none; cursor:pointer;" /></a></div>
+    <div align="right" style="font-weight:bold; margin:5px 3px 0 0;"><a href="javascript:void()" class="close"><img src="images/close.jpg" width="16" style="border:none; cursor:pointer;" /></a></div>
     <div align="center" style="margin:5px 0 5px 0;">
              
-            <img src="images/popup.png" width="910"> 
+            <img src="images/popup.jpg" width="910"> 
              
             </div>
    

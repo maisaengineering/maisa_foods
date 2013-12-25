@@ -4,9 +4,9 @@
 <script src="./js/popup.js"></script>
 <div id="banner-slide">
     <ul class="bjqs">
-      <li><img src="images/slide_one.png" title=""></li>
-      <li><img src="images/slide_three.png" title=""></li>
-      <li><img src="images/slide_five.png" title=""></li>
+      <li><img src="images/slide_one.jpg" title=""></li>
+      <li><img src="images/slide_three.jpg" title=""></li>
+      <li><img src="images/slide_five.jpg" title=""></li>
 
     </ul>
   <script>
