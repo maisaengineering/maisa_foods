@@ -3,15 +3,15 @@
     <head>
     <title>maisa foods</title>
     <link rel="stylesheet" type="text/css" href="./css/styles.css">
-    <script src="../js/jquery-1.10.2.min.js"></script>
+    <script src="./js/jquery-1.10.2.min.js"></script>
         <script src="./js/jquery-1.7.1.js"></script>
         <script src="./js/popup.js"></script>
   </head>
   <body>
     <div class="container">
-    <?php include 'header.php'; ?>
+    <?php include ('header.php'); ?>
     <div id="center_block">
-  <?php include './slider.php'; ?>
+  <?php include 'slider.php'; ?>
 </div>
 <div class="products">
 <div class="left" style="border:2px solid #CE212D;border-radius:10px">

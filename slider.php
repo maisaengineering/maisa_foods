@@ -14,7 +14,7 @@
       
       $('#banner-slide').bjqs({
         animtype      : 'slide',
-        height        : 420,
+        height        : 400,
         width         : 970,
         responsive    : true,
         randomstart   : true

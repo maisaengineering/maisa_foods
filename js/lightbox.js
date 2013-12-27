@@ -9,7 +9,7 @@ http://lokeshdhakar.com/projects/lightbox2/
 Licensed under the Creative Commons Attribution 2.5 License - http://creativecommons.org/licenses/by/2.5/
 - free for use in both personal and commercial projects
 - attribution requires leaving author name, author link, and the license info intact
-	
+  
 Thanks
 - Scott Upton(uptonic.com), Peter-Paul Koch(quirksmode.com), and Thomas Fuchs(mir.aculo.us) for ideas, libs, and snippets.
 - Artemy Tregubenko (arty.name) for cleanup and help in updating to latest proto-aculous in v2.05.
@@ -48,9 +48,9 @@ lightbox = new Lightbox options
   LightboxOptions = (function() {
 
     function LightboxOptions() {
-      this.fileLoadingImage = 'images/loading.gif';
-      this.fileCloseImage = 'images/close.jpg';
-      this.filePrintImage = 'images/print.jpg';
+      this.fileLoadingImage = '';
+      this.fileCloseImage = 'images/close.png';
+      this.filePrintImage = 'images/print.png';
       this.resizeDuration = 700;
       this.fadeDuration = 500;
       this.labelImage = "Image";
@@ -346,45 +346,45 @@ lightbox = new Lightbox options
         visibility: "visible"
       });
     };
-	
-	Lightbox.prototype.print = function() {
-		var $this = this;
-		var currentImage = $this.album[$this.currentImageIndex];
-		
-		if ($.browser.opera) {
-			var clone = $('.lb-image').get(0).cloneNode(true)
-			var win = window.open('about:blank');
-			win.document.getElementsByTagName('body')[0].appendChild(clone);
-			var script = win.document.createElement('script');
-			script.innerHTML = "function invokePrint() {if (document.readyState && document.readyState!='complete')setTimeout(function() { invokePrint(); }, 50);else if (document.body && document.body.innerHTML=='false')setTimeout(function() { invokePrint(); }, 50);else {print();}};invokePrint();";
-			win.document.getElementsByTagName('body')[0].appendChild(script);
-			return;
-		}
-		
-		$('#lightboxPrintFrame').remove();
-		var iframe = $('<iframe/>', {id:'lightboxPrintFrame', name:'lightboxPrintFrame', src:'about:blank'});
-		iframe.load(function(e){
-			var ifr = iframe.get(0);
-			var idoc = ifr.contentDocument || ifr.contentWindow.document;
-			var iwin = ifr.contentWindow || ifr.contentDocument.defaultView;
-			
-			var body = idoc.getElementsByTagName('body')[0];
-			var img = idoc.createElement('img');
-			img.setAttribute('src', currentImage.link);
-			body.appendChild(img);
-			
-			if (currentImage.hasOwnProperty('title') && currentImage.title) {
-				var div = idoc.createElement('div');
-				div.innerHTML = currentImage.title;
-				body.appendChild(div);
-			}
-			
-			setTimeout(function(){
-				iwin.focus();
-				window.frames['lightboxPrintFrame'].print();
-			}, 500);
-		}).appendTo('body:eq(0)');
-	}
+  
+  Lightbox.prototype.print = function() {
+    var $this = this;
+    var currentImage = $this.album[$this.currentImageIndex];
+    
+    if ($.browser.opera) {
+      var clone = $('.lb-image').get(0).cloneNode(true)
+      var win = window.open('about:blank');
+      win.document.getElementsByTagName('body')[0].appendChild(clone);
+      var script = win.document.createElement('script');
+      script.innerHTML = "function invokePrint() {if (document.readyState && document.readyState!='complete')setTimeout(function() { invokePrint(); }, 50);else if (document.body && document.body.innerHTML=='false')setTimeout(function() { invokePrint(); }, 50);else {print();}};invokePrint();";
+      win.document.getElementsByTagName('body')[0].appendChild(script);
+      return;
+    }
+    
+    $('#lightboxPrintFrame').remove();
+    var iframe = $('<iframe/>', {id:'lightboxPrintFrame', name:'lightboxPrintFrame', src:'about:blank'});
+    iframe.load(function(e){
+      var ifr = iframe.get(0);
+      var idoc = ifr.contentDocument || ifr.contentWindow.document;
+      var iwin = ifr.contentWindow || ifr.contentDocument.defaultView;
+      
+      var body = idoc.getElementsByTagName('body')[0];
+      var img = idoc.createElement('img');
+      img.setAttribute('src', currentImage.link);
+      body.appendChild(img);
+      
+      if (currentImage.hasOwnProperty('title') && currentImage.title) {
+        var div = idoc.createElement('div');
+        div.innerHTML = currentImage.title;
+        body.appendChild(div);
+      }
+      
+      setTimeout(function(){
+        iwin.focus();
+        window.frames['lightboxPrintFrame'].print();
+      }, 500);
+    }).appendTo('body:eq(0)');
+  }
 
     return Lightbox;
 

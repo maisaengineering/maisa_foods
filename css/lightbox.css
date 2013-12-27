@@ -111,12 +111,12 @@
 
 /* line 81, ../sass/lightbox.sass */
 .lb-prev:hover {
-  background: url(../img/prev.jpg) left 48% no-repeat;
+  background: url() left 48% no-repeat;
 }
 
 /* line 85, ../sass/lightbox.sass */
 .lb-next:hover {
-  background: url(../img/next.jpg) right 48% no-repeat;
+  background: url() right 48% no-repeat;
 }
 
 /* line 88, ../sass/lightbox.sass */

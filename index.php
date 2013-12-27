@@ -52,10 +52,10 @@ session_start();
 	<div class="icons_sprite new_products"></div>
 	<br>
 	<div style="margin:10px;color:#000">
-	    	<ul>
+	    	<!-- <ul>
 	    		Introducing Chicken Crackers
 	    		<li></li>
-            </ul>
+            </ul> -->
            
         </div>
 </div>	
@@ -67,7 +67,7 @@ session_start();
 	<br>
     <script src="js/lightbox.js" type="text/javascript"></script>
     <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
-    <a href="images/c1.jpg" rel="lightbox" title="Print This Coupon"><img src="images/c1.jpg" width="300" height="90"></a>
+    <a href="images/cup1.jpg" rel="lightbox" title="Print This Coupon"><img src="images/cup1.jpg" width="300" height="90"></a>
 </div>
 <br>
 </div>
