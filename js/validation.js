@@ -1,5 +1,3 @@
-
-
 function cont_validate1()
 {
 	
