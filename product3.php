@@ -32,7 +32,7 @@
                  <li class="linkleft1">
      	            <a href="#" title="Rasam Powder">
                 <div class="icons_sprite masala">
-      		        <em style="margin-left:110px">Ingridents</em>
+      		        <em style="margin-left:110px">Ingredients</em>
       		        <span style="margin-left:125px">
       		        	<ul style="list-style-type: disc;">
       		        		<li>Black Pepper</li>

@@ -1,5 +1,9 @@
-body{ font-family:arial;
-font-size:13px; line-height:19px}
+body{
+  font-family:"Lucida Grande","Lucida Sans Unicode",Tahoma,sans-serif !important;
+  font-size:13px; 
+  line-height:19px;
+  margin-top: 0px !important;
+}
 
 .container {
 	max-width: 970px !important;
@@ -193,55 +197,47 @@ margin: 10px;
 }
 
 .order_now{
-  width: 700px;
-background-color: #fff;
-float: left;
-margin-left: 127px;
-margin-top: 30px;
-border-radius: 20px;
-box-shadow: 0 0 50px #222;
+  padding:20px;
 }
-.order_now lable{
-  font-size: 24px;
-  font-family: -webkit-pictograph;
-  color: #CE212D;
-}
-.order_now input{
-  border: 1px solid #EBB035;
-  width: 95%;
-  font-size: 15px;
-  min-height: 30px;
-  display: block;
-  margin-bottom: 15px;
-  margin-top: 5px;
-  outline: none;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -o-border-radius: 5px;
-  -ms-border-radius: 5px;
-  border-radius: 5px;
-  clear: both;
-}
-.order_now form{
-  margin:60px;
-}
-.order_now textarea{
- border: 1px solid #EBB035;
-  width: 95%;
-  font-size: 15px;
-  min-height: 100px;
-  display: block;
-  margin-bottom: 15px;
-  margin-top: 5px;
-  outline: none;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -o-border-radius: 5px;
-  -ms-border-radius: 5px;
-  border-radius: 5px;
-  clear: both;
+.call_for_order{
+  font-size: 25px;
+  color:#000;
+  margin-top:20px;
 }
 
+.location_header{
+  margin-left:20px;
+  margin-top: 20px;
+  font-size: 25px;
+  color: #CE212D;
+  margin-bottom: 20px;
+}
+
+.locations{
+  font-size: 20px;
+  line-height: 25px;
+
+}
+
+.location_1{
+  padding-left:150px;
+  
+}
+
+.location_2{
+  padding-left:100px;
+}
+
+.home_delivery{
+  font-size: 20px;
+  line-height: 25px;
+  margin-top: 20px;
+}
+
+.new_prod_c_c{
+  padding-top: 55px;
+  margin-left: 31px;
+}
 /*###############################menubar#####################################################################*/
 
 /*///////////////////////////////////////socialmedia///////////////////////////////////////////////////////////*/

@@ -10,7 +10,7 @@
 		<div class="container">
 		<?php include 'header.php'; ?>
 		<div id="center_block">
-			<img src="images/contact.jpg" width="970" style="margin-top:30px;">
+			<img src="images/contact_new.jpg" width="970" style="margin-top:30px;">
         </div>
         <div class="clear"></div>
 		<?php include 'footer.php'; ?>

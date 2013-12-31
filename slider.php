@@ -17,7 +17,7 @@
         height        : 400,
         width         : 970,
         responsive    : true,
-        randomstart   : true
+        randomstart   : false
       });
       
     });

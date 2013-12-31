@@ -13,26 +13,34 @@
 	<body>
 		<div class="container">
 		<?php include 'header.php'; ?>
-		<div id="center_block" style="height:745px">
-	<div class="order_now">
-		 <form action="cont_form.php" method="post" name="cont1" id="cont1" onsubmit="return cont_validate1();">
-			<lable>Name</lable><br>
-	        <input name="name" type="text" class="conf1" id="name" /><br>
+		<div id="center_block">
+			<div class="order_now">
+				 <div class="call_for_order">Order now @ 8008344449</div>
+				 <div class="home_delivery">Free Home Delivery available for bulk orders.</div>
+			</div> 
+			<div class="location_header">Locations:</div>
+			<table class="locations">
+			<td class="location_1">
+				<div class="location_1_details">
+					Sriram Nagar Colony<br/>
+					Kapra, Saketh road<br/>
+					Hyderabad-500062<br/>
+					<b>Phone:</b> 8008 344 449
+				</div>
+			</td>
 
-	        <lable>Phone Number</lable><br> 
-	        <input name="phone" type="text" class="conf1" id="phone" onkeypress="return isNumberKey(event)" /><br>
+			<td class="location_2">
+				<div class="location_2_details">
+					New vasavishiva nagar<br/>
+					Kushaiguda, Ecil<br/>
+					Hyderabad-500062<br/>
+					<b>Phone:</b> 8008 344 449
+				</div>
+			</td>
 
-	        <lable>Item Details</lable><br>
-	        <textarea name="items" ></textarea><br>
-
-	        <lable>Delivery Address</lable><br>
-	        <textarea name="delivery_address"></textarea><br>
-
-	        
-<input type="image" src="images/submit.jpg" name="submit" id="submit" value="Submit" /><input type="hidden" id="spam_code" name="spam_code" value="Captcha Code Here"  />
-	    </form>
-	</div> 
-</div>
+			
+		</table>
+		</div>
 	
         <div class="clear"></div>
 		<?php include 'footer.php'; ?>

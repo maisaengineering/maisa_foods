@@ -35,7 +35,7 @@
                  <li class="linkleft1">
      	            <a href="#" title="Chicken Nuggets">
      		          <div class="icons_sprite masala">
-      		        <em style="margin-left:110px">Ingridents</em>
+      		        <em style="margin-left:110px">Ingredients</em>
       		        <span style="margin-left:125px; float:left">
       		        	<ul style="list-style-type: disc;">
       		        		<li>Chicken</li>
@@ -63,7 +63,7 @@
       		        <span>
                     <b>In Oil:</b> Fry with little oil for 5 minutes.
                     <br>
-                    <b>In Microwave:</b> Heat at high temperatures for 2 minutes.</span></div></a>
+                    <b>In Microwave:</b> Heat at high temperature for 90 seconds.</span></div></a>
                   
                  </li>
              </ul>

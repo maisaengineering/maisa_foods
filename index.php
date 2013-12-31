@@ -23,7 +23,6 @@ session_start();
 <div class="block_one">
 	<br>
 	<div class="icons_sprite about-maisa"></div>
-	<br>
 	    <div style="margin:10px;color:#000">
 	    	<ul>
 	    		<li>Dedicated and Motivated Team</li>
@@ -44,12 +43,16 @@ session_start();
 		      
 		        <li>Excellent Brand Recall</li>
             </ul>
-            <a href="aboutus.php"><span style="color:#CE212D;float:right">See More..</span></a>
+            <a href="aboutus.php"><span style="color:#CE212D;float:right">See More...</span></a>
         </div>
 </div>	
 <div class="block_two">
 	<br>
-	<div class="icons_sprite new_products"></div>
+	<div class="icons_sprite new_products">
+		<div class="new_prod_c_c">
+			<img src="images/new_products.png">
+		</div>
+	</div>
 	<br>
 	<div style="margin:10px;color:#000">
 	    	<!-- <ul>
@@ -67,7 +70,7 @@ session_start();
 	<br>
     <script src="js/lightbox.js" type="text/javascript"></script>
     <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
-    <a href="images/cup1.jpg" rel="lightbox" title="Print This Coupon"><img src="images/cup1.jpg" width="300" height="90"></a>
+    <a href="images/5off.png" rel="lightbox" width="500" height="300" title="Print This Coupon"><img src="images/5off.png" width="300" height="250"></a>
 </div>
 <br>
 </div>
