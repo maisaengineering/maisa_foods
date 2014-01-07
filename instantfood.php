@@ -19,7 +19,7 @@
         <ul>
                  <li class="linkleft1">
                   <a href="If1.php" title="Chicken Nuggets">
-               <div class="products_sprite nuggets">
+                <div class="products_sprite nuggets">
                   <em>Chicken Nuggets</em>
                   <span><b>Maisa Chicken Nuggets</b> </span></a>
                 </div>
@@ -29,19 +29,17 @@
             </div>
     </div>
     <div class="right">
-        <!-- <div class="links">
+        <div class="links">
           <ul>
                  <li class="linkleft1">
-                  <a href="Product2" title="Chicken 65 Kabab Masala">
-                <img src="img/masala4.png" width="178" height="267">
-                  <em>Chicken 65 Kabab Masala</em>
-                  <span><b>Maisa Chicken 65 Kabab Masala</b> is made from selected spices and is prepared under most hygienic conditions.</span></a>
-
+                  <a href="#">
+                  <img src="images/new_product.jpg" width="178" height="267">
+                  <em>Chicken Crackers</em>
+                  <span><b>Maisa Chicken Crackers</span></a>
                  </li>
-             </ul>
-             
-            </div> -->
-    </div> 
+             </ul>      
+            </div>
+       </div> 
     <div class="clear"></div> 
 </div>
 <?php include 'footer.php'; ?>

@@ -49,8 +49,9 @@ session_start();
 <div class="block_two">
 	<br>
 	<div class="icons_sprite new_products">
+		<br>
 		<div class="new_prod_c_c">
-			<img src="images/new_products.png">
+			<img src="images/new_product.jpg" width="240">
 		</div>
 	</div>
 	<br>
@@ -70,7 +71,7 @@ session_start();
 	<br>
     <script src="js/lightbox.js" type="text/javascript"></script>
     <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
-    <a href="images/5off.png" rel="lightbox" width="500" height="300" title="Print This Coupon"><img src="images/5off.png" width="300" height="250"></a>
+    <a href="images/5off.png" rel="lightbox" width="500" height="300" title="Print This Coupon"><img src="images/5off.png" width="240" style="margin:32px;"></a>
 </div>
 <br>
 </div>

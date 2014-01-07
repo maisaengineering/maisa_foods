@@ -3,30 +3,30 @@
       <div id="menu" class="globalfont">
           <ul class="menu">
             <li id="index" class="arrow current" style="border-radius:10px;">
-              <a href="index"><span>Home</span></a>
+              <a href="index.php"><span>Home</span></a>
             </li>
             <li id="aboutus" style="border-radius:10px;">
-              <a href="aboutus"><span>About Us</span></a>
+              <a href="aboutus.php"><span>About Us</span></a>
             </li>
             <li id="products" style="border-radius:10px;">
-              <a href="products" class="parent"><span>Products</span></a>
+              <a href="products.php" class="parent"><span>Products</span></a>
               <div>
                 <ul>
                   <li id="spices">
-                    <a href="productssub"><span>Spices</span></a>
+                    <a href="productssub.php"><span>Spices</span></a>
                   </li>
                   <li id="Instant">
-                    <a href="instantfood"><span>Instant Foods</span></a>
+                    <a href="instantfood.php"><span>Instant Foods</span></a>
                   </li>
                 </ul>
               </div>
             </li>
          
           <li id="order" class="last" style="border-radius:10px;">
-            <a href="order"><span>Order Now</span></a>
+            <a href="order.php"><span>Order Now</span></a>
           </li>
           <li id="contactus" class="last" style="border-radius:10px;">
-            <a href="contactus"><span>Contact Us</span></a>
+            <a href="contactus.php"><span>Contact Us</span></a>
           </li>
      </ul></div></div>
 
