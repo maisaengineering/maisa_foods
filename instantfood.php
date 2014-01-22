@@ -1,6 +1,8 @@
+
 <?php
 $id=$_GET['id'];
 if($id=="") $id=3; ?>
+
 <!doctype html>
 <html lang="en">
     <head>
@@ -21,7 +23,9 @@ if($id=="") $id=3; ?>
       <div class="links">
         <ul>
                  <li class="linkleft1">
+
                   <a href="if1.php" title="Chicken Nuggets">
+
                 <div class="products_sprite nuggets">
                   <em>Chicken Nuggets</em>
                   <span><b>Maisa Chicken Nuggets</b> </span></a>

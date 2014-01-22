@@ -1,6 +1,9 @@
+
 <?php
 $id=$_GET['id'];
 if($id=="") $id=3; ?>
+
+
 <!doctype html>
 <html lang="en">
     <head>

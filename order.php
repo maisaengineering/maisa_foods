@@ -1,6 +1,8 @@
+
 <?php
 $id=$_GET['id'];
 if($id=="") $id=4; ?>
+
 
 <!doctype html>
 <html lang="en">

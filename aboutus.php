@@ -1,7 +1,6 @@
 <?php
 $id=$_GET['id'];
 if($id=="") $id=2; ?>
-<!doctype html>
 <html lang="en">
 		<head>
 		<title>maisa foods</title>

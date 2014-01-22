@@ -427,6 +427,7 @@ margin: 10px;
   margin-left: 2px;
 }
 #menu div a:hover, .active,
+
 #menu div ul>li:hover>a.parent, #menu div ul li a.parent:hover {
   background:#EBB035 !important;
   color:#fff;
@@ -435,7 +436,9 @@ margin: 10px;
   box-shadow:         0px 0px 1px rgba(0, 0, 0, 0.75);
 }
 
+
 .active{ border-radius:10px !important;  box-shadow: none !important}
+
 #menu div a span:hover {
   background:#CE212D !important;
   color:#fff;
