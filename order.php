@@ -7,7 +7,7 @@ if($id=="") $id=4; ?>
 <!doctype html>
 <html lang="en">
 		<head>
-		<title>maisa foods</title>
+		<title>Maisa&#8482; Foods</title>
 		<link rel="stylesheet" type="text/css" href="./css/styles.css">
 	</head>
 	<body>
