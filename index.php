@@ -55,7 +55,8 @@ session_start();
 	<div class="icons_sprite new_products">
 		<br>
 		<div class="new_prod_c_c">
-			<img src="images/new_product.jpg" width="240">
+			<a href="instantfood.php">
+			<img src="images/new_product.jpg" width="240"></a>
 		</div>
 	</div>
 	<br>

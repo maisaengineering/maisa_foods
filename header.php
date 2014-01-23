@@ -1,5 +1,5 @@
 <div class="header">
-  <a href="index"><img src="images/logo.png" class="logo"></a>
+  <a href="index.php"><img src="images/logo.png" class="logo"></a>
       <div id="menu" class="globalfont">
           <ul class="menu">
             <li id="index" class="arrow current" style="border-radius:10px;">
