@@ -3,7 +3,7 @@ $id=$_GET['id'];
 if($id=="") $id=2; ?>
 <html lang="en">
 		<head>
-		<title>maisa foods</title>
+		<title>Maisa&#8482; Foods</title>
 		<link rel="stylesheet" type="text/css" href="./css/styles.css">
 		<script src="./js/jquery-1.10.2.min.js"></script>
         <script src="./js/jquery-1.7.1.js"></script>

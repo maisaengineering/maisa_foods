@@ -25,7 +25,7 @@ if(isset($_POST['submit_x']))
     $to = "pradeep.benjaram@gmail.com";
     //$to = "naveen.maisasolutions@gmail.com";
 	
-	$subject = "Maisa Foods Order Details";
+	$subject = "Maisa&#8482; Foods Order Details";
 	
 	
 	if (sizeof($_POST['procedure'])>0 ) $procedure=implode(",",$_POST['procedure']);
