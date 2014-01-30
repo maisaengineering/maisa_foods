@@ -25,7 +25,7 @@ if($id=="") $id=3; ?>
      	            <a href="#" title="Sambar Powder">
                   <div class="icons_sprite desp">
       		        <em style="margin-left:110px">Description</em>
-      		        <span><b>Maisa Sambar Powder</b> is made from selected spices and is prepared under most hygienic conditions.It is a perfect blend of spices. </span></a>
+      		        <span><b>Maisa Sambar Powder</b> is made from selected spices and is prepared under most hygienic conditions. <b>Maisa Sambar Powder</b> makes your sambar tastes special with its rich aroma and flavour. Sambar is common dish in every southindian house hold and it can be had with rice, idli, vada, dosa etc. </span></a>
                   </div>
                  </li>
              </ul>

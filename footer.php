@@ -1,20 +1,23 @@
-<style type="text/css">
-nav a{
-	font-size: 14px;
-	font-family: -webkit-body;
-	text-decoration: none;
-	color:#EBB035;
-}
-</style>
 <div class="footer">
 	<br>
-	<nav style="text-align:center;color:#ffffff";>
+	<div class="natural">
+	<img src="images/natural.png" width="120px">
+	</div>
+	<div class="nrc">
+	<img src="images/nrc.jpg" width="80px">
+	</div>
+	<div class="fssl">
+	<img src="images/fssl.png" width="120px">
+	</div>
+	<div>
+	<nav class="nav" style="text-align:center;color:#ffffff";>
 		<a href="index.php">Home</a> |
 		<a href="aboutus.php">AboutUs</a> |
 		<a href="order.php">OrderNow</a> |
 		<a href="contactus.php">ContactUs</a>
 	</nav>
-	<p style="text-align:center;">&#169;2014 Maisa Foods. All rights reserved.</p>
+	<p style="text-align:center;">&#169;2014 Maisa&#8482; Foods. All rights reserved.</p>
+</div>
   <div class="social-icons">
     <ul>
         <li class="facebook" style="background-color: #EBB035">
@@ -23,6 +26,3 @@ nav a{
     </ul>
   </div>  
 </div>  
-
-
- 

@@ -24,7 +24,7 @@ if($id=="") $id=3; ?>
      	            <a href="#" title="Rasam Powder">
                   <div class="icons_sprite desp">
       		        <em style="margin-left:110px">Description</em>
-      		        <span><b>Maisa Rasam Powder</b> is made from selected spices and is prepared under most hygienic conditions.It is a perfect blend of spices so as you can use it in all types of Rasams.</span></a>
+      		        <span><b>Maisa Rasam Powder</b> is made from selected spices and is prepared under most hygienic conditions. <b>Maisa Rasam Powder</b> makes your rasam tastes special with its rich aroma and flavour. Rasam is common dish in every southindian house hold and it can be had with rice or drunk as a flavoursome soup.</span></a>
                   </div>
                  </li>
              </ul>
@@ -64,7 +64,7 @@ if($id=="") $id=3; ?>
      	            <a href="#" title="Rasam Powder">
                 <div class="icons_sprite cooking-image">
       		        <em style="margin-left:110px">How To Prepare</em>
-      		        <span><b>Maisa Rasam Powder</b> </span></a>
+      		        <span>Cook 50g of Toor Dal in 1Ltr. of water with 1tsp Oil and a pinch of turmeric powder. Churn the coocked Dal. Add Tamarind juice, Chopped Tomato pieces, Jaggery and salt to taste, boil for 5 minutes. Add 2tbsp of <b>Maisa Rasam Powder</b> and boil for another 5 minutes. Add 1 tsp. of Mustard seeds seasoned in ghee. </span></a>
                   </div>
                  </li>
              </ul>
