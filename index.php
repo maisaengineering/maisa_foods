@@ -25,7 +25,9 @@
 </div>
 <br>
 
-<div style="margin-left: 6px;">	
+<div style="width: 970px;
+float: left;
+margin-bottom: 16px;">	
 <div class="block_one">
 	<br>
 	<div class="icons_sprite about-maisa"></div>
@@ -49,7 +51,7 @@
 		      
 		        <li>Excellent Brand Recall</li>
             </ul>
-            <a href="aboutus.php"><span style="color:#CE212D;float:right">See More...</span></a>
+            <a href="aboutus.php"><span style="color:#F6212D;float:right">See More...</span></a>
         </div>
 </div>	
 <div class="block_two">
@@ -57,9 +59,37 @@
 	<div class="icons_sprite new_products">
 		<br>
 		<div class="new_prod_c_c">
-			<a href="instantfood.php">
-			<img src="images/new_product.jpg" width="240"></a>
 		</div>
+		<div><img id="new1" src="images/new_product1.jpg" alt="maisa masala" title="p1" style="position: relative;margin-left: 50px;
+margin-top: -24px;" border="0"></div>
+	 <script type="text/javascript">
+             $(document).ready(function(e) {
+             $('#new1').delay(1000).fadeOut('slow');
+             });
+
+        </script>
+		<marquee style="position: relative;" behavior="scroll" align="center" direction="up" scrollamount="2" scrolldelay="5" onmouseover="this.stop()" onmouseout="this.start()" height="300"><br>
+
+		 <center><a href="instantfood.php" target="_blank"><img src="images/new_product1.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <br>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala2.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <br>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala3.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <br>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala4.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <br>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala5.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <br>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala6.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <br>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala7.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <br>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala8.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <br>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala1.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <br>
+		 <center><a href="instantfood.php" target="_blank"><img src="images/nuggets.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+        </marquee>
 	</div>
 	<br>
 	<div style="margin:10px;color:#000">
@@ -69,7 +99,7 @@
             </ul> -->
            
         </div>
-</div>	
+</div>
 <!-- lightbox -->
 <div class="block_three">
 	<br>
@@ -78,7 +108,7 @@
 	<br>
     <script src="js/lightbox.js" type="text/javascript"></script>
     <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
-    <a href="images/5off.png" rel="lightbox" width="500" height="300" title="Print This Coupon"><img src="images/5off.png" width="240" style="margin:32px;"></a>
+    <a href="images/5off.png" rel="lightbox" width="500px" height="300px" title="Print This Coupon"><img src="images/5off.png" width="240" style="margin:32px;"></a>
 </div>
 <br>
 </div>

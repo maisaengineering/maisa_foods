@@ -1,52 +1,24 @@
 <?php
-ob_start();
+require_once 'google/appengine/api/mail/Message.php';
+
+use google\appengine\api\mail\Message;
 
 
-session_start();
-if(isset($_POST['submit_x']))
-{
-	//spam_code
-	$url=$_SERVER['HTTP_REFERER'];
+$message = "Name  : $name\n\nPhone : $phone\n\nItems : $items\n\nDelivery Address : $delivery_address";
 
- $arr=parse_url($url);
+	$mail_options = [
+    "sender" => "snk.navin143@gmail.com",
+    "to" => "naveen.maisasolutions@gmail.com",
+    "subject" => "Enquire Form",
+    "textBody" => $message
+];
 
- $page_name=$arr['path'];
-  $urlnew=$arr['host'].$page_name;
-  $key1=$_SESSION['spam_code'];
-  foreach($_POST as $key=>$val)  $$key=(get_magic_quotes_gpc())?$val:addslashes($val);
-	// $number = $_POST['spam_code'];
-//	  if(($number!=$key1) || ($number == ''))
-//	  {
-//		header("Location: ".$page_name."?msg=invalid");exit;
-//	  }
-//	  else
-//	  { 
-	 
-    $to = "pradeep.benjaram@gmail.com";
-    //$to = "naveen.maisasolutions@gmail.com";
 	
-	$subject = "Maisa&#8482; Foods Order Details";
-	
-	
-	if (sizeof($_POST['procedure'])>0 ) $procedure=implode(",",$_POST['procedure']);
-	
-	$message = "Name  : $name\n\nPhone : $phone\n\nItems : $items\n\nDelivery Address : $delivery_address";
-	$from = "$email";
-	
-	$headers = "From: $from" . "\r\n" . "BCC:$bcc";
-		$ok =mail($to,$subject,$message,$headers);
-	
-	if($ok)
-	{
-		
-	header("Location: thankyou.php");
+	try {
+    $message = new Message($mail_options);
+    $message->send();
+    header("Location: thankyou.php");
+} catch (InvalidArgumentException $e) {
+
 }
-else
-{
-echo "<script>alert('Server Problem! Please try again!');window.location='index.php';</script>";
-}
-
-}//else
-//}//if(isset($_REQUEST['Submit']))
-// exit;
 ?>

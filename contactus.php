@@ -16,7 +16,7 @@ if($id=="") $id=5; ?>
 		<div class="container">
 		<?php include 'header.php'; ?>
 		<div id="center_block">
-			<img src="images/contact.jpg" width="970" style="margin-top:30px;">
+			<img src="images/contact.jpg" width="920" style="margin: 16px 26px;">
 			<table>
 				<td>
 					<div class="location_header">Address:</div>
@@ -37,7 +37,7 @@ if($id=="") $id=5; ?>
 					<td class="location_1">
 						<div class="location_2_details">
 							Call Us<br/>
-							(+91) 8008 344 449<br/>
+							040-40177227<br/>
 							<br/>
 							<br/>
 						</div>

@@ -20,26 +20,26 @@ if($id=="") $id=3; ?>
   <?php include 'slider.php'; ?>
 </div>
 <div class="products">
-<div class="left" style="border:2px solid #CE212D;border-radius:10px">
+<div class="left" style="border:2px solid #F6212D;border-radius:10px">
       <div class="links">
         <ul>
             <li class="linkleft1">
               <a href="productssub.php">
               <img src="images/allprd.jpg" style="width:178px;height:220px;margin:10px;">
               <em>Blended Spices</em>
-              <span><b>Maisa Masalas</b> is made from selected spices and is prepared under most hygienic conditions.<b>Maisa Masalas</b> makes very dish tastes special with its rich aroma and flavour.It is a perfect blend of spices so as you can use it in all types of curries.</span></a>
+              <span><b>Maisa Masalas</b> is made from selected spices and is prepared under most hygienic conditions.<b>Maisa Masalas</b> makes very dish tastes special with its rich aroma and flavour.It is a perfect blend of spices so as you can use it in all types of curries.<p style="color:#f6212d">see more...</p></span></a>
             </li>
         </ul>
       </div>
 </div>
-<div class="right" style="border:2px solid #CE212D;border-radius:10px">
+<div class="right" style="border:2px solid #F6212D;border-radius:10px">
       <div class="links">
           <ul>
              <li class="linkleft1">
               <a href="instantfood.php" title="">
                 <img src="images/instfood.jpg" style="width:178px;height:220px;margin:10px;">
               <em>Instant Foods</em>
-              <span><b>Maisa&#8482; Foods</b> are High in Fiber and Low in Fat and is prepared under most hygienic conditions.</span></a>
+              <span><b>Maisa&#8482; Foods</b> are High in Fiber and Low in Fat and is prepared under most hygienic conditions.<p style="color:#f6212d">see more...</p></span></a>
 
              </li>
           </ul>
