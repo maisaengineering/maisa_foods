@@ -3,6 +3,7 @@
     <head>
     <title>Maisa&#8482; Foods</title>
     <link rel="stylesheet" type="text/css" href="./css/styles.css">
+    <?php include ('analyticstracking.php'); ?>
     <script src="./js/jquery-1.10.2.min.js"></script>
         <script src="./js/jquery-1.7.1.js"></script>
         <script src="./js/popup.js"></script>

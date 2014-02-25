@@ -1,3 +1,4 @@
+<?php include ('analyticstracking.php'); ?>
 <link rel="stylesheet" href="./css/bjqs.css">	   
 <link rel="stylesheet" href="./css/slider.css">
 <script src="./js/bjqs-1.3.min.js"></script>

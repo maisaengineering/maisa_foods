@@ -8,6 +8,7 @@ if($id=="") $id=4; ?>
 <html lang="en">
 		<head>
 		<title>Maisa&#8482; Foods</title>
+		<?php include ('analyticstracking.php'); ?>
 		<link rel="stylesheet" type="text/css" href="./css/styles.css">
 	</head>
 	<body>
