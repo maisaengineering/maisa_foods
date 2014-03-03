@@ -17,8 +17,7 @@ if($id=="") $id=3; ?>
     <div class="container">
     <?php include 'header.php'; ?>
 	<div>
-		<div class="products_sprite if1">
-  </div>
+		<img src="images/IF1.jpg" width="970px">
 	</div>
 	<br>
 	<div class="products">

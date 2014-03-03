@@ -16,7 +16,7 @@
 		<a href="order.php">OrderNow</a> |
 		<a href="contactus.php">ContactUs</a>
 	</nav>
-	<p style="text-align:center;">&#169;2014 Maisa&#8482; Foods. All rights reserved.</p>
+	<p style="text-align:center;">&#169;2014 Maisa&#8482; Foods. All rights reserved. Designed & Developed by <a href="http://maisasolutions.com" target="_blank" style="color:#ffffff">Maisa Solutions</a>.</p>
 </div>
   <div class="social-icons">
     <ul>

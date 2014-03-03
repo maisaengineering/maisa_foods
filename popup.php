@@ -9,7 +9,7 @@ session_start();
              </div>
             <div align="center" style="margin:6px 0 5px 0;">
                  
-              <a href="Order"><img src="images/popup.jpg"width="910"></a>
+              <a href="order.php"><img src="images/popup.jpg"width="910"></a>
             </div>
             <!-- Mask to cover the whole screen -->
           </div>

@@ -31,7 +31,7 @@ float: left;
 margin-bottom: 16px;">	
 <div class="block_one">
 	<br>
-	<div class="icons_sprite about-maisa"></div>
+	<img src="images/about_maisa.jpg">
 	    <div style="margin:10px;color:#000">
 	    	<ul>
 	    		<li>Dedicated and Motivated Team</li>
@@ -57,7 +57,7 @@ margin-bottom: 16px;">
 </div>	
 <div class="block_two">
 	<br>
-	<div class="icons_sprite new_products">
+	<img src="images/products.jpg">
 		<br>
 		<div class="new_prod_c_c">
 		</div>
@@ -91,7 +91,6 @@ margin-top: -24px;" border="0"></div>
 		 <br>
 		 <center><a href="instantfood.php" target="_blank"><img src="images/nuggets.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
         </marquee>
-	</div>
 	<br>
 	<div style="margin:10px;color:#000">
 	    	<!-- <ul>
@@ -104,7 +103,7 @@ margin-top: -24px;" border="0"></div>
 <!-- lightbox -->
 <div class="block_three">
 	<br>
-	<div class="icons_sprite coupons"></div>
+	<img src="images/coupons.jpg">
 	<br>
 	<br>
     <script src="js/lightbox.js" type="text/javascript"></script>
@@ -175,7 +174,7 @@ margin-top: -24px;" border="0"></div>
     <div align="right" style="font-weight:bold; margin:5px 3px 0 0;"><a href="javascript:void()" class="close"><img src="images/close.png" width="16" style="border:none; cursor:pointer;" /></a></div>
     <div align="center" style="margin:5px 0 5px 0;">
              
-            <div><a href="Order"><img src="images/popup.jpg"width="910"></a></div> 
+            <div><a href="order.php"><img src="images/popup.jpg"width="910"></a></div> 
              
             </div>
    

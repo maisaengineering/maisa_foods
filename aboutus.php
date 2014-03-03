@@ -18,7 +18,7 @@ if($id=="") $id=2; ?>
     <br>
     <div class="block_content">
     <br>	
-    	<div class="icons_sprite about-maisa"></div>
+    	<img src="images/about_maisa.jpg">
 	<br>
 	    <div style="margin:10px;color:#000">
 	    	<ul>

@@ -16,14 +16,14 @@
   <div class="order_now" >
     <div>
      <form action="cont_form.php" method="post" name="cont1" id="cont1" onsubmit="return cont_validate1();">
-      <lable>Name</lable><br>
+          <lable>Name</lable><br>
           <input name="name" type="text" class="conf1" id="name" /><br><br>
 
           <lable>Phone Number</lable><br> 
           <input name="phone" type="text" class="conf1" id="phone" onkeypress="return isNumberKey(event)" /><br><br>
-
-          <lable>Item Details</lable><br>
-          <textarea name="items" ></textarea><br><br>
+  
+          <lable>Chicken Masala</lable>(10g,25g,50g)<br>
+          <input name="p1" type="text" class="conf1" id="p1" /><br><br>
 
           <lable>Delivery Address</lable><br>
           <textarea name="delivery_address"></textarea><br> <br>         
