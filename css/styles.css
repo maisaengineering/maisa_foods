@@ -119,6 +119,24 @@ margin: 0 35px 0 0;
 }
 
 /*###########################################products css###################################################################*/
+.weight_rs{
+  
+width: 220px;
+text-align: center;
+margin-left: 39px;
+height: 85px;
+
+}
+.weight_rs table
+{
+border-collapse:collapse;
+width:220px;
+background: #ffffff;
+}
+.weight_rs table, td, th
+{
+border:1px solid black;
+}
 .products{
   max-width: 970px !important;
   min-height:300px;
@@ -199,8 +217,17 @@ margin: 10px;
   width:400px;
   float:right;
   height: 600px;
-  margin-right: 290px;
+  margin-right: 393px;
   margin-top: 60px;
+}
+.order_now table
+{
+border-collapse:collapse;
+width:600px;
+}
+.order_now table, td, th
+{
+border:1px solid black;
 }
 .order_nowc{
   padding:20px; 
@@ -244,19 +271,16 @@ margin: 10px;
   padding-top: 55px;
   margin-left: 31px;
 }
-.order_now lable{
-  font-size: 28px;
+.order_now label{
+  font-size: 18px;
   color: #F6212D;
   font-family: -webkit-body;
 }
 .order_now input{
-  width: 400px;
-  height: 30px;
-  border-radius: 10px;
-  border:1px #F6212D;
+ 
 }
 .order_now textarea{
-  width: 400px;
+  width: 594px;
   height: 120px;
   border-radius: 10px;
   border:1px #F6212D;
@@ -275,9 +299,11 @@ margin: 10px;
     }
 .box1 a{
   text-decoration: none;
+  color: #ffffff;
 }
 .box2 a{
   text-decoration: none;
+  color: #ffffff;
 }
 .float{
   float: left;
@@ -289,13 +315,14 @@ margin: 10px;
   margin-right: 0;
 }
 .button_view{
-  width:100px;
-  height:20px;
+  color:#ffffff;
+  height:35px;
   background-color:#F6212D;
-  border-radius:10px;
-  margin-left: 104px;
-  color: white;
-  padding: 5px;
+}
+.button_view1{
+  color:#ffffff;
+  height:35px;
+  background-color:#26991C;
 }
 .natural{
   float:left;

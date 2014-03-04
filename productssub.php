@@ -25,26 +25,182 @@ if($id=="") $id=3; ?>
     <div class="clear"></div>
     <p>&nbsp;</p>
     <div>
-      <div class="box1 float"><img src="images/masala7.jpg" width="220px"><br><a href="product1.php" title="Garam Masala"><div class="button_view">View More</div></a></div>
-      <div class="box1 float boxmargin"><img src="images/masala6.jpg" width="220px"><br><a href="product4.php" title="Sambar Powder"><div class="button_view">View More</div></a></div>
-      <div class="box2 floatr"><img src="images/masala5.jpg" width="220px"><a href="product3.php" title="Rasam Powder"><div class="button_view">View More</div></a></div>
+      <div class="box1 float">
+        <img src="images/masala7.jpg" width="220px">
+        <div class="weight_rs">
+          <table>
+            <tr>
+              <td>Weight</td><td>25g</td><td>50g</td>
+            </tr>
+            <tr>
+              <td>Price</td><td>Rs.14</td><td>Rs.27</td>
+            </tr>
+            <tr>
+              <table class="button_view">
+                <tr>
+              <td class="button_view"><a href="product1.php" title="Garam Masala">View More</a></td><td class="button_view1"><a href="order.php">Order Now</div></a></td>
+                </tr>
+              </table>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div class="box1 float boxmargin">
+        <img src="images/masala6.jpg" width="220px">
+         <div class="weight_rs">
+          <table width="220px" style="background:#ffffff;">
+            <tr>
+              <td>Weight</td><td>25g</td><td>50g</td>
+            </tr>
+            <tr>
+              <td>Price</td><td>Rs.12</td><td>Rs.20</td>
+            </tr>
+            <tr>
+              <table class="button_view">
+                <tr>
+              <td class="button_view"><a href="product4.php" title="Sambar Powder">View More</a></td><td class="button_view1"><a href="order.php">Order Now</div></a></td>
+                </tr>
+              </table>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div class="box2 floatr">
+        <img src="images/masala5.jpg" width="220px">
+        <div class="weight_rs">
+          <table width="220px" style="background:#ffffff;">
+            <tr>
+              <td>Weight</td><td>25g</td><td>50g</td>
+            </tr>
+            <tr>
+              <td>Price</td><td>Rs.12</td><td>Rs.20</td>
+            </tr>
+            <tr>
+              <table class="button_view">
+                <tr>
+              <td class="button_view"><a href="product3.php" title="Rasam Powder">View More</a></td><td class="button_view1"><a href="order.php">Order Now</div></a></td>
+                </tr>
+              </table>
+            </tr>
+          </table>
+        </div>
     </div> 
+
     <div class="clear"></div>
     <p>&nbsp;</p>
+     <p>&nbsp;</p>
     <div>
-      <div class="box1 float"><img src="images/masala8.jpg" width="220px"><a href="product5.php" title="Biryani Masala"><div class="button_view">View More</div></a></div>
-      <div class="box1 float boxmargin"><img src="images/masala1.jpg" width="220px"><a href="product8.php" title="Instant Chicken Masala"><div class="button_view">View More</div></a></div>
-      <div class="box2 floatr"><img src="images/masala2.jpg" width="220px"><a href="product6.php" title="Chicken Masala"><div class="button_view">View More</div></a></div>
-    </div>
-    <div class="clear"></div>
-    <p>&nbsp;</p>
-    <div>
-      <div class="box1 float"><img src="images/masala3.jpg" width="220px"><a href="product7.php" title="Mutton Masala"><div class="button_view">View More</div></a></div>
-      <div class="box1 float boxmargin"><img src="images/masala4.jpg" width="220px"><a href="product2.php" title="Kabab & Chicken 65 Masala"><div class="button_view">View More</div></a></div>
-      <div class="box2 floatr"></div>
+      <div class="box1 float">
+        <img src="images/masala8.jpg" width="220px">
+        <div class="weight_rs">
+          <table width="220px" style="background:#ffffff;">
+            <tr>
+              <td>Weight</td><td>50g</td>
+            </tr>
+            <tr>
+              <td>Price</td><td>Rs.27</td>
+            </tr>
+            <tr>
+              <table class="button_view">
+                <tr>
+              <td class="button_view"><a href="product5.php" title="Biryani Masala">View More</a></td><td class="button_view1"><a href="order.php">Order Now</div></a></td>
+                </tr>
+              </table>
+            </tr>
+          </table>
+        </div>
+      </div>  
+      <div class="box1 float boxmargin">
+        <img src="images/masala1.jpg" width="220px">
+         <div class="weight_rs">
+          <table width="220px" style="background:#ffffff;">
+            <tr>
+              <td>Weight</td><td>50g</td>
+            </tr>
+            <tr>
+              <td>Price</td><td>Rs.25</td>
+            </tr>
+            <tr>
+              <table class="button_view">
+                <tr>
+              <td class="button_view"><a href="product8.php" title="Instant Chicken Masala">View More</a></td><td class="button_view1"><a href="order.php">Order Now</div></a></td>
+                </tr>
+              </table>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div class="box2 floatr">
+        <img src="images/masala2.jpg" width="220px">
+          <div class="weight_rs">
+          <table width="220px" style="background:#ffffff;">
+            <tr>
+              <td>Weight</td><td>10g</td><td>25g</td><td>50g</td>
+            </tr>
+            <tr>
+              <td>Price</td><td>Rs.4</td><td>Rs.15</td><td>Rs.27</td>
+            </tr>
+            <tr>
+              <table class="button_view">
+                <tr>
+              <td class="button_view"><a href="product6.php" title="Chicken Masala">View More</a></td><td class="button_view1"><a href="order.php">Order Now</div></a></td>
+                </tr>
+              </table>
+            </tr>
+          </table>
+        </div>
+      </div>
     </div>
 
     <div class="clear"></div>
+    <p>&nbsp;</p>
+     <p>&nbsp;</p>
+    <div>
+      <div class="box1 float">
+        <img src="images/masala3.jpg" width="220px">
+            <div class="weight_rs">
+          <table width="220px" style="background:#ffffff;">
+            <tr>
+              <td>Weight</td><td>25g</td><td>50g</td>
+            </tr>
+            <tr>
+              <td>Price</td><td>Rs.17</td><td>Rs.30</td>
+            </tr>
+            <tr>
+              <table class="button_view">
+                <tr>
+              <td class="button_view"><a href="product7.php" title="Mutton Masala">View More</a></td><td class="button_view1"><a href="order.php">Order Now</div></a></td>
+                </tr>
+              </table>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div class="box1 float boxmargin">
+        <img src="images/masala4.jpg" width="220px">
+              <div class="weight_rs">
+          <table width="220px" style="background:#ffffff;">
+            <tr>
+              <td>Weight</td><td>25g</td><td>50g</td>
+            </tr>
+            <tr>
+              <td>Price</td><td>Rs.12</td><td>Rs.20</td>
+            </tr>
+            <tr>
+              <table class="button_view">
+                <tr>
+              <td class="button_view"><a href="product2.php" title="Kabab & Chicken 65 Masala">View More</a></td><td class="button_view1"><a href="order.php">Order Now</div></a></td>
+                </tr>
+              </table>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div class="box2 floatr"></div>
+    </div>
+    <div class="clear"></div>
+    <p>&nbsp;</p>
+     <p>&nbsp;</p>
 	</div>	
   <?php include 'footer.php'; ?>
     </div>
