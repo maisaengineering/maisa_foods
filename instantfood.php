@@ -36,7 +36,7 @@ if($id=="") $id=3; ?>
             <tr>
               <table class="button_view">
                 <tr>
-              <td class="button_view"><a href="if1.php" title="Nuggets">View More</a></td><td class="button_view1"><a href="order.php">Order Now</div></a></td>
+              <td class="button_view"><a href="if1.php" title="Nuggets">View More</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
                 </tr>
               </table>
             </tr>
@@ -56,7 +56,7 @@ if($id=="") $id=3; ?>
             <tr>
               <table class="button_view">
                 <tr>
-              <td class="button_view"><a href="#" title="crackers">View More</a></td><td class="button_view1"><a href="order.php">Order Now</div></a></td>
+              <td class="button_view"><a href="#" title="crackers">View More</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
                 </tr>
               </table>
             </tr>

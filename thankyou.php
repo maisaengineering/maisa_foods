@@ -12,7 +12,8 @@
 		<?php include 'header.php'; ?>
 		<div id="center_block">
 			<br>
-	      <span>Thank you for your order Your order has been received and will be processed shortly.</span>
+	      <h2 class="thank_you">Thank you for your order</h2> 
+	      	<h3 class="thank_you" style="margin-top:0px">Your order has been received and will be processed shortly.</h3>
         </div>
         <div class="clear"></div>
 		<?php include 'footer.php'; ?>

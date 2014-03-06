@@ -174,7 +174,7 @@ margin-top: -24px;" border="0"></div>
     <div align="right" style="font-weight:bold; margin:5px 3px 0 0;"><a href="javascript:void()" class="close"><img src="images/close.png" width="16" style="border:none; cursor:pointer;" /></a></div>
     <div align="center" style="margin:5px 0 5px 0;">
              
-            <div><a href="order.php"><img src="images/popup.jpg"width="910"></a></div> 
+            <div><a href="order_form.php"><img src="images/popup.jpg"width="910"></a></div> 
              
             </div>
    

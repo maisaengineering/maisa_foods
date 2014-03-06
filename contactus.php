@@ -39,6 +39,8 @@ if($id=="") $id=5; ?>
 						<div class="location_2_details">
 							Call Us<br/>
 							040-40177227<br/>
+								Email Us<br/>
+							contact@maisafoods.com
 							<br/>
 							<br/>
 						</div>
