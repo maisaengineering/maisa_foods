@@ -19,7 +19,7 @@ if($id=="") $id=3; ?>
       <img src="images/slide_one.jpg" width="970" title="">
 </div>
 <div class="products">
-  <div style="background-color:#F6212D;padding:10px"><h1 style="color:#ffffff;margin:10px;">Instant Foods</h1></div>
+  <div style="background-color:#C52128;padding:10px"><h1 style="color:#ffffff;margin:10px;">Instant Foods</h1></div>
   <div class="clear"></div>
     <p>&nbsp;</p>
     <div>

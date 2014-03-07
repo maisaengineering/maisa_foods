@@ -21,7 +21,7 @@ content: " ";
 .header{
 	max-width: 100% !important;
 	height: 100px;
-	background-color:#F6212D;
+	background-color:#C52128;
   position: relative;
 }
 .logo{
@@ -33,7 +33,7 @@ content: " ";
 .footer{
 	max-width: 1000px !important;
 	height: 140px;
-	background-color:#F6212D;
+	background-color:#C52128;
 }
 #center_block{
 	max-width: 970px !important;
@@ -178,7 +178,7 @@ border: none;
 
 .links li.linkleft1 a em, .links li.linkright1 a em {
 font: bold 18px Arial ;
-color: #F6212D;
+color: #C52128;
 padding: 8px 0 0 0;
 margin: 0 0 0 194px;
 text-decoration: none;
@@ -239,7 +239,7 @@ border:1px solid black;
   padding:20px; 
 }
 .order_now h2{
-  color:#F6212D;
+  color:#C52128;
   text-align: center;
 }
 .call_for_order{
@@ -252,7 +252,7 @@ border:1px solid black;
   margin-left:20px;
   margin-top: 20px;
   font-size: 25px;
-  color: #F6212D;
+  color: #C52128;
   margin-bottom: 20px;
 }
 
@@ -284,21 +284,21 @@ border:1px solid black;
 .order_now label{
   font-size: 18px;
   font-weight: bold;
-  color: #F6212D;
+  color: #C52128;
   font-family: -webkit-body;
 }
 .order_now_input{
   width:300px;
   height: 28px;
   border-radius: 4px;
-  border:1px solid #F6212D;
+  border:1px solid #C52128;
  
 }
 .order_now textarea{
   width: 594px;
   height: 120px;
   border-radius: 10px;
-  border:1px solid #F6212D;
+  border:1px solid #C52128;
 }
 .checkbox_order{
   display: none;
@@ -336,7 +336,7 @@ border:1px solid black;
 .button_view{
   color:#ffffff;
   height:35px;
-  background-color:#F6212D;
+  background-color:#C52128;
 }
 .button_view1{
   color:#ffffff;
@@ -384,7 +384,7 @@ font-weight: bold;
 margin-top: 128px;
 font-size: 20px;
 font-family: cursive;
-color: #f6212d;
+color: #C52128;
 }
 
 
@@ -569,7 +569,7 @@ bottom: 0;
 .active{ border-radius:10px !important;  box-shadow: none !important}
 
 #menu div a span:hover {
-  background:#F6212D !important;
+  background:#C52128 !important;
   color:#fff;
   -webkit-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.75);
   -moz-box-shadow:    0px 0px 1px rgba(0, 0, 0, 0.75);

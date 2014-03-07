@@ -52,7 +52,7 @@ margin-bottom: 16px;">
 		      
 		        <li>Excellent Brand Recall</li>
             </ul>
-            <a href="aboutus.php"><span style="color:#F6212D;float:right">See More...</span></a>
+            <a href="aboutus.php"><span style="color:#C52128;float:right">See More...</span></a>
         </div>
 </div>	
 <div class="block_two">
