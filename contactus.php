@@ -38,6 +38,7 @@ if($id=="") $id=5; ?>
 					<td class="location_1">
 						<div class="location_2_details">
 							Call Us<br/>
+							8008344449<br>
 							040-40177227<br/>
 								Email Us<br/>
 							contact@maisafoods.com

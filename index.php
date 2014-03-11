@@ -10,7 +10,12 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html lang="en">
 		<head>
-		<title>Maisa&#8482; Foods</title>
+		<title>Maisa&#8482; Foods Maisa Garam Masala is made from selected spices and is prepared under most hygienic conditions.</title>
+		<meta name="language" content="EN" />
+			<meta name="description" content="Maisa Garam Masala is made from selected spices and is prepared under most hygienic conditions.Maisa Garam Masala makes very dish tastes special with its rich aroma and flavour.It is a perfect blend of spices so as you can use it in all types of curries.Add Maisa Garam Masala just before you finish cooking to ensure that its subtle flavour and aroma are retained.spices instantFoods blendedSpices spices maisamasalas garam masala vegetarian masala non-vegetarian masala chicken masala mutton masala sambar powder rasam powder chicken 65 masala chicken kabab masala "/>
+			<meta name="keywords" content="spices,instantfoods,blendedSpices,spices,maisamasalas,chicken nuggets,chicken crackers,garam masala,vegetarian masala,non-vegetarian masala,chicken masala,mutton masala,sambar powder,rasam powder,chicken 65 masala,chicken kabab masala,biryani masala,instant chicken masala,ginger and garlic paste" />
+			<meta name="author" content="maisafoods.com">
+			<meta name="robots" content="index, follow">
 		<?php include ('analyticstracking.php'); ?>
 		<link rel="stylesheet" type="text/css" href="./css/styles.css">
 		<script src="./js/jquery-1.10.2.min.js"></script>
@@ -61,7 +66,7 @@ margin-bottom: 16px;">
 		<br>
 		<div class="new_prod_c_c">
 		</div>
-		<div><img id="new1" src="images/new_product1.jpg" alt="maisa masala" title="p1" style="position: relative;margin-left: 50px;
+		<div><img id="new1" src="images/new_product1.jpg" alt="chicken crackers" title="chicken crackers" style="position: relative;margin-left: 50px;
 margin-top: -24px;" border="0"></div>
 	 <script type="text/javascript">
              $(document).ready(function(e) {
@@ -71,25 +76,25 @@ margin-top: -24px;" border="0"></div>
         </script>
 		<marquee style="position: relative;" behavior="scroll" align="center" direction="up" scrollamount="2" scrolldelay="5" onmouseover="this.stop()" onmouseout="this.start()" height="300"><br>
 
-		 <center><a href="instantfood.php" target="_blank"><img src="images/new_product1.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="instantfood.php" target="_blank"><img src="images/new_product1.jpg" alt="chicken crackers" title="chicken crackers" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala2.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala2.jpg" alt="chicken masala" title="chicken masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala3.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala3.jpg" alt="mutton masala" title="mutton masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala4.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala4.jpg" alt="chicken 65 and kabab masala" title="chicken 65 and kabab masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala5.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala5.jpg" alt="rasam powder" title="rasam powder" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala6.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala6.jpg" alt="sambar powder" title="sambar powder" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala7.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala7.jpg" alt="garam masala" title="garam masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala8.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala8.jpg" alt="biryani masala" title="biryani masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala1.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/masala1.jpg" alt="instant chicken masala" title="instant chicken masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="instantfood.php" target="_blank"><img src="images/nuggets.jpg" alt="maisa masala" title="p1" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="instantfood.php" target="_blank"><img src="images/nuggets.jpg" alt="chicken nuggets" title="chicken nuggets" style="position: relative;" border="0"></a><br></center>
         </marquee>
 	<br>
 	<div style="margin:10px;color:#000">
