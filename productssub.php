@@ -26,7 +26,7 @@ if($id=="") $id=3; ?>
     <p>&nbsp;</p>
     <div>
       <div class="box1 float">
-        <img src="images/masala7.jpg" width="220px">
+        <img src="images/garammasala.jpg" width="220px">
         <div class="weight_rs">
           <table>
             <tr>
@@ -46,7 +46,7 @@ if($id=="") $id=3; ?>
         </div>
       </div>
       <div class="box1 float boxmargin">
-        <img src="images/masala6.jpg" width="220px">
+        <img src="images/sambarpowder.jpg" width="220px">
          <div class="weight_rs">
           <table width="220px" style="background:#ffffff;">
             <tr>
@@ -66,7 +66,7 @@ if($id=="") $id=3; ?>
         </div>
       </div>
       <div class="box2 floatr">
-        <img src="images/masala5.jpg" width="220px">
+        <img src="images/rasampowder.jpg" width="220px">
         <div class="weight_rs">
           <table width="220px" style="background:#ffffff;">
             <tr>
@@ -91,7 +91,7 @@ if($id=="") $id=3; ?>
      <p>&nbsp;</p>
     <div>
       <div class="box1 float">
-        <img src="images/masala8.jpg" width="220px">
+        <img src="images/biryanimasala.jpg" width="220px">
         <div class="weight_rs">
           <table width="220px" style="background:#ffffff;">
             <tr>
@@ -111,7 +111,7 @@ if($id=="") $id=3; ?>
         </div>
       </div>  
       <div class="box1 float boxmargin">
-        <img src="images/masala1.jpg" width="220px">
+        <img src="images/instantchickenmasala.jpg" width="220px">
          <div class="weight_rs">
           <table width="220px" style="background:#ffffff;">
             <tr>
@@ -131,7 +131,7 @@ if($id=="") $id=3; ?>
         </div>
       </div>
       <div class="box2 floatr">
-        <img src="images/masala2.jpg" width="220px">
+        <img src="images/chickenmasala.jpg" width="220px">
           <div class="weight_rs">
           <table width="220px" style="background:#ffffff;">
             <tr>
@@ -143,7 +143,7 @@ if($id=="") $id=3; ?>
             <tr>
               <table class="button_view">
                 <tr>
-              <td class="button_view"><a href="product6.php" title="Chicken Masala">View More</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
+              <td class="button_view"><a href="product6.php" title="Chicken Masala">View Details</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
                 </tr>
               </table>
             </tr>
@@ -157,7 +157,7 @@ if($id=="") $id=3; ?>
      <p>&nbsp;</p>
     <div>
       <div class="box1 float">
-        <img src="images/masala3.jpg" width="220px">
+        <img src="images/muttonmasala.jpg" width="220px">
             <div class="weight_rs">
           <table width="220px" style="background:#ffffff;">
             <tr>
@@ -177,7 +177,7 @@ if($id=="") $id=3; ?>
         </div>
       </div>
       <div class="box1 float boxmargin">
-        <img src="images/masala4.jpg" width="220px">
+        <img src="images/chicken65kababmasala.jpg" width="220px">
               <div class="weight_rs">
           <table width="220px" style="background:#ffffff;">
             <tr>
@@ -197,7 +197,7 @@ if($id=="") $id=3; ?>
         </div>
       </div>
       <div class="box2 floatr">
-        <img src="images/ginger.jpg" width="220px">
+        <img src="images/gingerandgarlicpaste.jpg" width="220px">
               <div class="weight_rs">
           <table width="220px" style="background:#ffffff;">
             <tr>

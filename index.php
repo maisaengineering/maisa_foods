@@ -74,25 +74,25 @@ margin-top: -24px;" border="0"></div>
              });
 
         </script>
-		<marquee style="position: relative;" behavior="scroll" align="center" direction="up" scrollamount="2" scrolldelay="5" onmouseover="this.stop()" onmouseout="this.start()" height="300"><br>
+		<marquee style="position: relative;margin-top:-50px;" behavior="scroll" align="center" direction="up" scrollamount="2" scrolldelay="5" onmouseover="this.stop()" onmouseout="this.start()" height="330"><br>
 
 		 <center><a href="instantfood.php" target="_blank"><img src="images/new_product1.jpg" alt="chicken crackers" title="chicken crackers" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala2.jpg" alt="chicken masala" title="chicken masala" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/chickenmasala.jpg" alt="chicken masala" title="chicken masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala3.jpg" alt="mutton masala" title="mutton masala" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/muttonmasala.jpg" alt="mutton masala" title="mutton masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala4.jpg" alt="chicken 65 and kabab masala" title="chicken 65 and kabab masala" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/chicken65kababmasala.jpg" alt="chicken 65 and kabab masala" title="chicken 65 and kabab masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala5.jpg" alt="rasam powder" title="rasam powder" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/rasampowder.jpg" alt="rasam powder" title="rasam powder" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala6.jpg" alt="sambar powder" title="sambar powder" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/sambarpowder.jpg" alt="sambar powder" title="sambar powder" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala7.jpg" alt="garam masala" title="garam masala" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/garammasala.jpg" alt="garam masala" title="garam masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala8.jpg" alt="biryani masala" title="biryani masala" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/biryanimasala.jpg" alt="biryani masala" title="biryani masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/masala1.jpg" alt="instant chicken masala" title="instant chicken masala" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/instantchickenmasala.jpg" alt="instant chicken masala" title="instant chicken masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
 		 <center><a href="instantfood.php" target="_blank"><img src="images/nuggets.jpg" alt="chicken nuggets" title="chicken nuggets" style="position: relative;" border="0"></a><br></center>
         </marquee>
