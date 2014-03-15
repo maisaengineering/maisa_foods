@@ -24,7 +24,7 @@ if($id=="") $id=3; ?>
     <p>&nbsp;</p>
     <div>
       <div class="box1 float">
-        <img src="images/nuggets.jpg" width="220px">
+        <img src="images/chickennuggets.jpg" width="220px">
              <div class="weight_rs">
           <table width="220px" style="background:#ffffff;">
             <tr>
@@ -36,7 +36,7 @@ if($id=="") $id=3; ?>
             <tr>
               <table class="button_view">
                 <tr>
-              <td class="button_view"><a href="if1.php" title="Nuggets">View More</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
+              <td class="button_view"><a href="if1.php" title="Nuggets">View Details</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
                 </tr>
               </table>
             </tr>
@@ -44,7 +44,7 @@ if($id=="") $id=3; ?>
         </div>
       </div>
       <div class="box1 float">
-        <img src="images/new_product.jpg" width="220px" height="330px">
+        <img src="images/chickencrackers.jpg" width="220px">
          <div class="weight_rs">
           <table width="220px" style="background:#ffffff;">
             <tr>
@@ -56,7 +56,7 @@ if($id=="") $id=3; ?>
             <tr>
               <table class="button_view">
                 <tr>
-              <td class="button_view"><a href="#" title="crackers">View More</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
+              <td class="button_view"><a href="#" title="crackers">View Details</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
                 </tr>
               </table>
             </tr>

@@ -18,7 +18,7 @@ if($id=="") $id=2; ?>
     <br>
     <div class="block_content">
     <br>	
-    	<img src="images/about_maisa.jpg">
+    	<img src="images/about_maisa_group.jpg">
 	<br>
 	    <div style="margin:10px;color:#000">
 	    	<ul>

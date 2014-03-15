@@ -362,7 +362,7 @@ margin: 0px 0px 0px 10px;
 }
 .fssl{
   float: right;
-margin: -46px 22px 0px 0px;
+margin: -100px 22px 0px 0px;
 }
 .footer_text{
   width:600px;float:left
@@ -370,7 +370,7 @@ margin: -46px 22px 0px 0px;
 .maisasolutions{
   width: 132px;
 float: right;
-margin: -35px 24px 0 0;
+margin: -42px 150px 0 0;
 }
 .reserved{
   width: 457px;
@@ -378,6 +378,10 @@ float: left;
 font-family: -webkit-body;
 font-size: 14px;
 font-weight: bold;
+}
+.reserved p{
+  text-align:center;margin-left: 62px;font-family: Candara;
+color: #c4c2c3;
 }
 .thank_you{
   text-align: center;
@@ -443,9 +447,9 @@ bottom: 0;
   height:38px;
  /* background-color: #EBB035;*/
   z-index:1000;
-  width: 646px;
+  width: 620px;
   float:right;
-  top: 30px;
+  top: 36px;
   border-radius: 10px;
   text-align: center;
 }

@@ -38,7 +38,7 @@ if($id=="") $id=3; ?>
             <tr>
               <table class="button_view">
                 <tr>
-              <td class="button_view"><a href="product1.php" title="Garam Masala">View More</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
+              <td class="button_view"><a href="product1.php" title="Garam Masala">View Details</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
                 </tr>
               </table>
             </tr>
@@ -58,7 +58,7 @@ if($id=="") $id=3; ?>
             <tr>
               <table class="button_view">
                 <tr>
-              <td class="button_view"><a href="product4.php" title="Sambar Powder">View More</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
+              <td class="button_view"><a href="product4.php" title="Sambar Powder">View Details</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
                 </tr>
               </table>
             </tr>
@@ -78,7 +78,7 @@ if($id=="") $id=3; ?>
             <tr>
               <table class="button_view">
                 <tr>
-              <td class="button_view"><a href="product3.php" title="Rasam Powder">View More</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
+              <td class="button_view"><a href="product3.php" title="Rasam Powder">View Details</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
                 </tr>
               </table>
             </tr>
@@ -103,7 +103,7 @@ if($id=="") $id=3; ?>
             <tr>
               <table class="button_view">
                 <tr>
-              <td class="button_view"><a href="product5.php" title="Biryani Masala">View More</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
+              <td class="button_view"><a href="product5.php" title="Biryani Masala">View Details</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
                 </tr>
               </table>
             </tr>
@@ -123,7 +123,7 @@ if($id=="") $id=3; ?>
             <tr>
               <table class="button_view">
                 <tr>
-              <td class="button_view"><a href="product8.php" title="Instant Chicken Masala">View More</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
+              <td class="button_view"><a href="product8.php" title="Instant Chicken Masala">View Details</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
                 </tr>
               </table>
             </tr>
@@ -169,7 +169,7 @@ if($id=="") $id=3; ?>
             <tr>
               <table class="button_view">
                 <tr>
-              <td class="button_view"><a href="product7.php" title="Mutton Masala">View More</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
+              <td class="button_view"><a href="product7.php" title="Mutton Masala">View Details</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
                 </tr>
               </table>
             </tr>
@@ -189,7 +189,7 @@ if($id=="") $id=3; ?>
             <tr>
               <table class="button_view">
                 <tr>
-              <td class="button_view"><a href="product2.php" title="Kabab & Chicken 65 Masala">View More</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
+              <td class="button_view"><a href="product2.php" title="Kabab & Chicken 65 Masala">View Details</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
                 </tr>
               </table>
             </tr>
@@ -209,7 +209,7 @@ if($id=="") $id=3; ?>
             <tr>
               <table class="button_view">
                 <tr>
-              <td class="button_view"><a href="#" title="Ginger Garlic Paste">View More</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
+              <td class="button_view"><a href="#" title="Ginger Garlic Paste">View Details</a></td><td class="button_view1"><a href="order_form.php">Order Now</div></a></td>
                 </tr>
               </table>
             </tr>

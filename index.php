@@ -5,7 +5,7 @@
 <?php
   $id=$_GET['id'];
   if($id=="") $id=1; 
-?>
+?>	
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html lang="en">
@@ -38,26 +38,8 @@ margin-bottom: 16px;">
 	<br>
 	<img src="images/about_maisa.jpg">
 	    <div style="margin:10px;color:#000">
-	    	<ul>
-	    		<li>Dedicated and Motivated Team</li>
-	   
-			    <li>Loyal customers</li>
-		      
-		        <li>Continuous market analysis and Survey of customer needs</li>
-		     
-		        <li>Strong resources & Marketing Network</li>
-		       
-		        <li>Excellent Quality products</li>
-		      
-		        <li>Standardization & upgradation of products as per international standards</li>
-		       
-		        <li>Adherence to International business standard ethics</li>
-		      
-		        <li>Targetting the market of all walks of life</li>
-		      
-		        <li>Excellent Brand Recall</li>
-            </ul>
-            <a href="aboutus.php"><span style="color:#C52128;float:right">See More...</span></a>
+	    	<br>
+	    	<iframe width="280" height="280" src="//www.youtube.com/embed/YpZ2a8NVeLU" frameborder="0" allowfullscreen></iframe>
         </div>
 </div>	
 <div class="block_two">
@@ -66,8 +48,8 @@ margin-bottom: 16px;">
 		<br>
 		<div class="new_prod_c_c">
 		</div>
-		<div><img id="new1" src="images/new_product1.jpg" alt="chicken crackers" title="chicken crackers" style="position: relative;margin-left: 50px;
-margin-top: -24px;" border="0"></div>
+		<div><img id="new1" src="images/garammasala.jpg" width="200" alt="garam Masala" title="garam masala" style="position: relative;margin-left: 50px;
+margin-top: -60px;" border="0"></div>
 	 <script type="text/javascript">
              $(document).ready(function(e) {
              $('#new1').delay(1000).fadeOut('slow');
@@ -76,25 +58,25 @@ margin-top: -24px;" border="0"></div>
         </script>
 		<marquee style="position: relative;margin-top:-50px;" behavior="scroll" align="center" direction="up" scrollamount="2" scrolldelay="5" onmouseover="this.stop()" onmouseout="this.start()" height="330"><br>
 
-		 <center><a href="instantfood.php" target="_blank"><img src="images/new_product1.jpg" alt="chicken crackers" title="chicken crackers" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/chickenmasala.jpg" width="200" alt="chicken masala" title="chicken masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/chickenmasala.jpg" alt="chicken masala" title="chicken masala" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/muttonmasala.jpg" width="200" alt="mutton masala" title="mutton masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/muttonmasala.jpg" alt="mutton masala" title="mutton masala" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/chicken65kababmasala.jpg" width="200" alt="chicken 65 and kabab masala" title="chicken 65 and kabab masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/chicken65kababmasala.jpg" alt="chicken 65 and kabab masala" title="chicken 65 and kabab masala" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/rasampowder.jpg" width="200" alt="rasam powder" title="rasam powder" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/rasampowder.jpg" alt="rasam powder" title="rasam powder" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/sambarpowder.jpg" width="200" alt="sambar powder" title="sambar powder" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/sambarpowder.jpg" alt="sambar powder" title="sambar powder" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/garammasala.jpg" width="200" alt="garam masala" title="garam masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/garammasala.jpg" alt="garam masala" title="garam masala" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/biryanimasala.jpg" width="200" alt="biryani masala" title="biryani masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/biryanimasala.jpg" alt="biryani masala" title="biryani masala" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="productssub.php" target="_blank"><img src="images/instantchickenmasala.jpg" width="200" alt="instant chicken masala" title="instant chicken masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="productssub.php" target="_blank"><img src="images/instantchickenmasala.jpg" alt="instant chicken masala" title="instant chicken masala" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="instantfood.php" target="_blank"><img src="images/chickencrackers.jpg" width="200" alt="chicken crackers" title="chicken crackers" style="position: relative;" border="0"></a><br></center>
 		 <br>
-		 <center><a href="instantfood.php" target="_blank"><img src="images/nuggets.jpg" alt="chicken nuggets" title="chicken nuggets" style="position: relative;" border="0"></a><br></center>
+		 <center><a href="instantfood.php" target="_blank"><img src="images/chickennuggets.jpg" width="200" alt="chicken nuggets" title="chicken nuggets" style="position: relative;" border="0"></a><br></center>
         </marquee>
 	<br>
 	<div style="margin:10px;color:#000">
