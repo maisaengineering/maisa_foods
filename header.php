@@ -8,7 +8,13 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="header">
- <div class="fb-like" data-href="https://www.facebook.com/chickenhousepoultry" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"style="float:right;margin-right:10px;margin-top:10px"></div>
+  <div style="width: 100%;
+float: right;
+text-align: right;
+margin: 10px 10px 0 0;">
+      <div class="fb-like" data-href="https://www.facebook.com/chickenhousepoultry" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"
+      ></div>
+  </div>
   <a href="index.php"><img src="images/logo.png" class="logo"></a>
       <div id="menu" class="globalfont">
           <ul class="menu">

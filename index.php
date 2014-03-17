@@ -31,9 +31,7 @@
 </div>
 <br>
 
-<div style="width: 970px;
-float: left;
-margin-bottom: 16px;">	
+<div class="main_block">	
 <div class="block_one">
 	<br>
 	<img src="images/about_maisa.jpg">
