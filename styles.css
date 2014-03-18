@@ -34,7 +34,7 @@ content: " ";
 	height: 100px;
 	background-color:#CE212D;
 }
-#center_block{
+.center_block{
 	max-width: 1000px !important;
 	height:426px;
 	background-color: #EBB035;

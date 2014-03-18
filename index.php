@@ -26,10 +26,9 @@
 		<?php //include ('popup.php'); ?>
 		<div class="container">
 		<?php include ('header.php'); ?>
-		<div id="center_block">
+		<div class="center_block">
 	<?php include 'slider.php'; ?>
 </div>
-<br>
 
 <div class="main_block">	
 <div class="block_one">

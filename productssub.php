@@ -18,7 +18,7 @@ if($id=="") $id=3; ?>
     <div class="container">
     <?php include 'header.php'; ?>
 <div id="center_block">
-  <div style="width:970px">
+  <div>
       <img src="images/slide_three.jpg" title="">
 </div>
 </div>

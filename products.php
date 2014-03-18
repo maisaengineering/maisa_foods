@@ -17,10 +17,10 @@ if($id=="") $id=3; ?>
   <body>
     <div class="container">
     <?php include ('header.php'); ?>
-    <div id="center_block">
+    <div class="center_block">
   <?php include 'slider.php'; ?>
 </div>
-<div class="products">
+<div class="products" style="margin-top: 26px;">
 <div class="left" style="border:2px solid #C52128;border-radius:10px">
       <div class="links">
         <ul>

@@ -16,7 +16,7 @@ if($id=="") $id=4; ?>
   <body>
     <div class="container">
     <?php include 'header.php'; ?>
-    <div id="center_block" style="height:1260px">
+    <div class="center_block" style="height:1260px">
       <marquee>Maisa Foods A Healthy Choice...! Order Now</marquee>
   <div class="order_now" >
     <h2>Order Now</h2><br><br>

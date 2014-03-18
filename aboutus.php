@@ -14,13 +14,13 @@ if($id=="") $id=2; ?>
 		<div class="container" >
        
 		<?php include 'header.php'; ?>
-		<div id="center_block">
+		<div class="center_block">
     <br>
     <div class="block_content">
     <br>	
     	<img src="images/about_maisa_group.jpg">
 	<br>
-	    <div style="margin:10px;color:#000">
+	    <div style="margin:10px;color:#000;">
 	    	<ul>
 	    		<li>Dedicated and Motivated Team</li>
 	   

@@ -16,7 +16,7 @@ if($id=="") $id=5; ?>
 	<body>
 		<div class="container">
 		<?php include 'header.php'; ?>
-		<div id="center_block">
+		<div class="center_block">
 			<img src="images/contact.jpg" width="920" style="margin: 16px 26px;">
 			<table>
 				<td>
