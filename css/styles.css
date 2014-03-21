@@ -764,10 +764,27 @@ margin: 10px; }
 .close { background-position: -162px -126px; width: 27px; height: 27px; }
 .close1 { background-position: -130px -131px; width: 16px; height: 16px; }
 
+.about_maisa_group{
+  margin:10px;
+  color:#000000;
+  font-size: 13px;
+}
 
 @media only screen 
 and (min-device-width : 320px) 
-and (max-device-width : 480px) {
+and (max-device-width : 480px) 
+{
+
 .block_one{ margin:0 32px 0 0 };
+
 }
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) 
+{
+.about_maisa_group{font-size: 10px !important; };
+}
+
+
 

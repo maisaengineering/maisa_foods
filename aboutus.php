@@ -20,7 +20,7 @@ if($id=="") $id=2; ?>
     <br>	
     	<img src="images/about_maisa_group.jpg">
 	<br>
-	    <div style="margin:10px;color:#000;">
+	    <div class="about_maisa_group">
 	    	<ul>
 	    		<li>Dedicated and Motivated Team</li>
 	   

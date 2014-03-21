@@ -19,7 +19,7 @@ if($id=="") $id=3; ?>
     <?php include 'header.php'; ?>
 <div id="center_block">
   <div>
-      <img src="images/slide_three.jpg" title="">
+      <img src="images/slider3.jpg" title="">
 </div>
 </div>
 <div class="products">

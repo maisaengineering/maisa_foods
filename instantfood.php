@@ -16,7 +16,7 @@ if($id=="") $id=3; ?>
     <div class="container">
     <?php include 'header.php'; ?>
 <div id="center_block">
-      <img src="images/slide_one.jpg" width="970" title="">
+      <img src="images/slider2.jpg" width="970" title="">
 </div>
 <div class="products">
   <div style="background-color:#C52128;padding:10px"><h1 style="color:#ffffff;margin:10px;">Instant Foods</h1></div>
@@ -44,7 +44,7 @@ if($id=="") $id=3; ?>
         </div>
       </div>
       <div class="box1 float">
-        <img src="images/chickencrackers.jpg" width="220px">
+        <img src="images/chickencrackersbox.jpg" width="220px">
          <div class="weight_rs">
           <table width="220px" style="background:#ffffff;">
             <tr>
