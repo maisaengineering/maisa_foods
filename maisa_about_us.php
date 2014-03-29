@@ -1,4 +1,6 @@
-<!doctype html>
+<?php
+$id=$_GET['id'];
+if($id=="") $id=2; ?>
 <html xmlns="http://www.w3.org/1999/xhtml">
 		<head>
 		<title>Maisa&#8482; Foods</title>
@@ -11,18 +13,43 @@
 		<link rel="stylesheet" type="text/css" href="./css/styles.css">
 		<script type="text/javascript" src="./js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript" src="./js/jquery-1.7.1.js"></script>
+        <script type="text/javascript" src="./js/popup.js"></script>
 	</head>
 	<body>
-		<div class="container">
+		<div class="container" >
+       
 		<?php include 'header.php'; ?>
-		<div id="center_block">
-			<div style="border:12px solid #EBB035">
-	      <h2 class="thank_you">Thank you for your order</h2> 
-	      	<h3 class="thank_you" style="margin-top:0px">Your order has been received and will be processed shortly.</h3>
+		<div class="center_block">
+    <br>
+    <div class="block_content">
+    <br>	
+    	<img src="images/about_maisa_group.jpg">
+	<br>
+	    <div class="about_maisa_group">
+	    	<ul>
+	    		<li>Dedicated and Motivated Team</li>
+	   
+			    <li>Loyal customers</li>
+		      
+		        <li>Continuous market analysis and Survey of customer needs</li>
+		     
+		        <li>Strong resources & Marketing Network</li>
+		       
+		        <li>Excellent Quality products</li>
+		      
+		        <li>Standardization & upgradation of products as per international standards</li>
+		       
+		        <li>Adherence to International business standard ethics</li>
+		      
+		        <li>Targetting the market of all walks of life</li>
+		      
+		        <li>Excellent Brand Recall</li>
+            </ul>
         </div>
-        <div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
 		<?php include 'footer.php'; ?>
 		</div>
 	</body>
-	</html>	
-
+	</html>

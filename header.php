@@ -22,17 +22,17 @@ margin: 10px 10px 0 0;">
               <a href="index.php" <?php if($id==1) echo 'class="active"'; ?>><span>Home</span></a>
             </li>
             <li id="aboutus" style="border-radius:10px;">
-              <a href="aboutus.php" <?php if($id==2) echo 'class="active"'; ?>><span>About Us</span></a>
+              <a href="maisa_about_us.php" <?php if($id==2) echo 'class="active"'; ?>><span>About Us</span></a>
             </li>
             <li id="products" style="border-radius:10px;">
-              <a href="products.php" <?php if($id==3) echo 'class="active parent"'; ?>><span>Products</span></a>
+              <a href="spices_instantfood_products.php" <?php if($id==3) echo 'class="active parent"'; ?>><span>Products</span></a>
               <div>
                 <ul>
                   <li id="spices">
-                    <a href="productssub.php"><span>Spices</span></a>
+                    <a href="masalas_spices_products.php"><span>Spices</span></a>
                   </li>
                   <li id="Instant">
-                    <a href="instantfood.php"><span>Instant Foods</span></a>
+                    <a href="maisa_instantfood.php"><span>Instant Foods</span></a>
                   </li>
                 </ul>
               </div>
@@ -40,9 +40,9 @@ margin: 10px 10px 0 0;">
          
           <li id="order" class="last" style="border-radius:10px;">
 
-            <a href="order_form.php" <?php if($id==4) echo 'class="active"'; ?>><span>Order Now</span></a>
+            <a href="maisa_order_form.php" <?php if($id==4) echo 'class="active"'; ?>><span>Order Now</span></a>
           </li>
           <li id="contactus" class="last" style="border-radius:10px;">
-            <a href="contactus.php" <?php if($id==5) echo 'class="active"'; ?>><span>Contact Us</span></a>
+            <a href="maisa_contact_us.php" <?php if($id==5) echo 'class="active"'; ?>><span>Contact Us</span></a>
           </li>
      </ul></div></div>

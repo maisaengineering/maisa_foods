@@ -14,63 +14,63 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/aboutus.php</loc>
+  <loc>http://www.maisafoods.com/maisa_about_us.php</loc>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/products.php</loc>
+  <loc>http://www.maisafoods.com/spices_instantfood_products.php</loc>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/productssub.php</loc>
+  <loc>http://www.maisafoods.com/masalas_spices_products.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/instantfood.php</loc>
+  <loc>http://www.maisafoods.com/maisa_instantfood.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/order_form.php</loc>
+  <loc>http://www.maisafoods.com/maisa_order_form.php</loc>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/contactus.php</loc>
+  <loc>http://www.maisafoods.com/maisa_contact_us.php</loc>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/product1.php</loc>
+  <loc>http://www.maisafoods.com/garam_masala_spices.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/product4.php</loc>
+  <loc>http://www.maisafoods.com/sambar_powder_spices.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/product3.php</loc>
+  <loc>http://www.maisafoods.com/rasam_powder_spices.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/product5.php</loc>
+  <loc>http://www.maisafoods.com/biryani_masala_spices.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/product8.php</loc>
+  <loc>http://www.maisafoods.com/instantchicken_masala_spices.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/product6.php</loc>
+  <loc>http://www.maisafoods.com/chicken_masala_spices.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/product7.php</loc>
+  <loc>http://www.maisafoods.com/mutton_masala_spices.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/product2.php</loc>
+  <loc>http://www.maisafoods.com/chicken65_chickenkabab_masala.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/if1.php</loc>
+  <loc>http://www.maisafoods.com/chicken_nuggets.php</loc>
   <priority>0.9</priority>
 </url>
 </urlset>

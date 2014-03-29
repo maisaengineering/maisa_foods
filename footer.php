@@ -3,9 +3,9 @@
 		<div>
 	<nav class="nav" style="text-align:center;color:#ffffff";>
 		<a href="index.php">Home</a> |
-		<a href="aboutus.php">AboutUs</a> |
-		<a href="order_form.php">OrderNow</a> |
-		<a href="contactus.php">ContactUs</a>
+		<a href="maisa_about_us.php">AboutUs</a> |
+		<a href="maisa_order_form.php">OrderNow</a> |
+		<a href="maisa_contact_us.php">ContactUs</a>
 	</nav>
 	</div>
 

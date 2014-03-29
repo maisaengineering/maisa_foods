@@ -1,3 +1,9 @@
+
+<?php
+$id=$_GET['id'];
+if($id=="") $id=5; ?>
+
+
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 		<head>
@@ -15,14 +21,42 @@
 	<body>
 		<div class="container">
 		<?php include 'header.php'; ?>
-		<div id="center_block">
-			<div style="border:12px solid #EBB035">
-	      <h2 class="thank_you">Thank you for your order</h2> 
-	      	<h3 class="thank_you" style="margin-top:0px">Your order has been received and will be processed shortly.</h3>
-        </div>
+		<div class="center_block">
+			<img src="images/contact.jpg" width="920" style="margin: 16px 26px;">
+			<table>
+				<td>
+					<div class="location_header">Address:</div>
+					<table class="locations">
+					<td class="location_1">
+						<div class="location_2_details">
+							Plot No. 26<br/>
+							New vasavishiva nagar<br/>
+							Kushaiguda, Ecil<br/>
+							Hyderabad-500062<br/>
+						</div>
+					</td>
+				    </table>
+		        </td>
+		        <td>
+				    <div class="location_header">Customer Service:</div>
+					<table class="locations">
+					<td class="location_1">
+						<div class="location_2_details">
+							Call Us<br/>
+							8008344449<br>
+							040-40177227<br/>
+								Email Us<br/>
+							contact@maisafoods.com
+							<br/>
+							<br/>
+						</div>
+				    </td>
+			        </table>
+		        </td>
+		    </table>
+		</div>
         <div class="clear"></div>
 		<?php include 'footer.php'; ?>
 		</div>
 	</body>
 	</html>	
-
