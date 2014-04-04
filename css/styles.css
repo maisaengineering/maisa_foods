@@ -123,7 +123,17 @@ margin: 0 35px 0 0;
   padding: 0px;
   background-color: #FFFFFF;
 }
-
+.recipes_box{
+  margin-left:10px;
+  height:90px;
+}
+.recipes_box p{
+  color:#ffffff;
+  margin-left:90px
+}
+.recipes_box a{
+  text-decoration: none;
+}
 /*###########################################products css###################################################################*/
 .weight_rs{
   

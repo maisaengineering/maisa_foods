@@ -87,12 +87,25 @@ margin-top: -60px;" border="0"></div>
 <!-- lightbox -->
 <div class="block_three">
 	<br>
-	<img src="images/coupons.jpg">
+	<img src="images/recipes.jpg">
 	<br>
-	<br>
-    <script src="js/lightbox.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
-    <a href="images/5off.png" rel="lightbox" width="500px" height="300px" title="Print This Coupon"><img src="images/5off.png" width="240" style="margin:32px;"></a>
+    <div class="recipes_box">
+    	<a href="chicken_masala_spices.php">
+    	<img src="images/chicken-curry.jpg" align="left" width="80"><p><b>Chicken Curry</b><br> made with maisa masala<br>for details Click here</p>
+    	</a> 
+    </div>
+    <hr>
+    <div class="recipes_box">
+    	<a href="rasam_powder_spices.php">
+    	<img src="images/rasam.jpg" align="left" width="80"><p><b>Rasam</b><br> made with maisa masala<br>for details Click here</p>
+        </a>
+    </div>	
+    <hr>
+    <div class="recipes_box">
+    	<a href="sambar_powder_spices.php">
+    	<img src="images/sambar.jpg" align="left" width="80"><p><b>Sambar</b><br> made with maisa masala<br>for details Click here</p>
+        </a>
+    </div>
 </div>
 <br>
 </div>
