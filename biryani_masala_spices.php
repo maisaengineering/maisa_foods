@@ -9,7 +9,7 @@ if($id=="") $id=3; ?>
     <title>Maisa&#8482; Foods</title>
     <meta name="language" content="EN" />
       <meta name="description" content="Maisa Garam Masala is made from selected spices and is prepared under most hygienic conditions.Maisa Garam Masala makes very dish tastes special with its rich aroma and flavour.It is a perfect blend of spices so as you can use it in all types of curries.Add Maisa Garam Masala just before you finish cooking to ensure that its subtle flavour and aroma are retained.spices instantFoods blendedSpices spices maisamasalas garam masala vegetarian masala non-vegetarian masala chicken masala mutton masala sambar powder rasam powder chicken 65 masala chicken kabab masala "/>
-      <meta name="keywords" content="spices,instantfoods,blendedSpices,spices,maisamasalas,chicken nuggets,chicken crackers,garam masala,vegetarian masala,non-vegetarian masala,chicken masala,mutton masala,sambar powder,rasam powder,chicken 65 masala,chicken kabab masala,biryani masala,instant chicken masala,ginger and garlic paste" />
+      <meta name="keywords" content="spices india,instantfoods,blendedSpices,spices in india,maisamasalas hyderabad,chicken nuggets,chicken crackers,garam masala in hyderabad,vegetarian masala india,non-vegetarian masala,chicken masala,mutton masala,sambar powder,rasam powder,chicken 65 masala,chicken kabab masala,biryani masala,instant chicken masala,ginger and garlic paste" />
       <meta name="author" content="maisafoods.com"/>
       <meta name="robots" content="index, follow"/>
     <?php include ('analyticstracking.php'); ?>

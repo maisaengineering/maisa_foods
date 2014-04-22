@@ -90,22 +90,23 @@ margin-top: -60px;" border="0"></div>
 	<img src="images/recipes.jpg">
 	<br>
     <div class="recipes_box">
-    	<a href="chicken_masala_spices.php">
-    	<img src="images/chicken-curry.jpg" align="left" width="80"><p><b>Chicken Curry</b><br> made with maisa masala<br>for details Click here</p>
+    	<a href="chicken_curry_recipe.php">
+    	<img src="images/chicken-curry-recipe.jpg" align="left" width="80"><p><b>Chicken Curry</b><br> made with maisa masala<br>for details Click here</p>
     	</a> 
     </div>
     <hr>
     <div class="recipes_box">
-    	<a href="rasam_powder_spices.php">
-    	<img src="images/rasam.jpg" align="left" width="80"><p><b>Rasam</b><br> made with maisa masala<br>for details Click here</p>
+    	<a href="chicken_seekh_kebabs_recipe.php">
+    	<img src="images/chicken-seekh-kebab-recipe.jpg" align="left" width="80"><p><b>Chicken Seekh Kebab</b><br> made with maisa masala<br>for details Click here</p>
         </a>
     </div>	
     <hr>
     <div class="recipes_box">
-    	<a href="sambar_powder_spices.php">
-    	<img src="images/sambar.jpg" align="left" width="80"><p><b>Sambar</b><br> made with maisa masala<br>for details Click here</p>
+    	<a href="egg_curry_recipe.php">
+    	<img src="images/egg-curry-recipe.jpg" align="left" width="80"><p><b>Egg Curry</b><br> made with maisa masala<br>for details Click here</p>
         </a>
     </div>
+
 </div>
 <br>
 </div>
