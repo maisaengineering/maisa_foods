@@ -22,7 +22,7 @@ if($id=="") $id=4; ?>
     <div class="container">
     <?php include 'header.php'; ?>
     <div class="center_block" style="height:1260px">
-      <marquee>Maisa Foods A Healthy Choice...! Order Now</marquee>
+      <marquee>Note: Minimum order Rs.500 and above Free Home Delivery Avaliable.</marquee>
   <div class="order_now" >
     <h2>Order Now</h2><br><br>
     <div>
@@ -42,165 +42,172 @@ if($id=="") $id=4; ?>
               </tr>
             </tr>
 
-
             <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="chicken masala 10g" id = "check1" class="checkbox_order">Chicken Masala</td>
-              <td id ="10gm">10g</td>
-              <td>
-                <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="10gmquantity"  onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)" >
-              </td>
-              <td><input name="price_group_1[]" type="text" id="price1" readonly= "true"></td>
-            </tr>
-            <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="chicken masala 25g" id = "check2" class="checkbox_order">Chicken Masala</td>
+              <td><input type="checkbox" name="product_group_1[]" value="chicken masala 25g" id = "check1" class="checkbox_order">Chicken Masala</td>
               <td id ="25gm">25g</td>
               <td>
                 <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="25gmquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
               </td>
-              <td><input name="price_group_1[]" type="text" id="price2" readonly= "true"></td>
+              <td><input name="price_group_1[]" type="text" id="price1" readonly= "true"></td>
             </tr>
             <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="chicken masala 50g" id = "check3" class="checkbox_order">Chicken Masala</td>
+              <td><input type="checkbox" name="product_group_1[]" value="chicken masala 50g" id = "check2" class="checkbox_order">Chicken Masala</td>
               <td id ="50gm">50g</td>
               <td>
                 <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="50gmquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
               </td>
-              <td><input name="price_group_1[]" type="text" id="price3" readonly= "true"></td>
+              <td><input name="price_group_1[]" type="text" id="price2" readonly= "true"></td>
             </tr>
 
 
             <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="Chicken 65/Kabab Masala 25g" id = "check4" class="checkbox_order">Chicken 65/Kabab Masala</td>
+              <td><input type="checkbox" name="product_group_1[]" value="Chicken 65/Kabab Masala 25g" id = "check3" class="checkbox_order">Chicken 65/Kabab Masala</td>
               <td id ="25gmck">25g</td>
               <td>
                 <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="25gmckquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
               </td>
-              <td><input name="price_group_1[]" type="text" id="price4" readonly= "true"></td>
+              <td><input name="price_group_1[]" type="text" id="price3" readonly= "true"></td>
             </tr>
             <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="Chicken 65/Kabab Masala 50g" id = "check5" class="checkbox_order">Chicken 65/Kabab Masala</td>
+              <td><input type="checkbox" name="product_group_1[]" value="Chicken 65/Kabab Masala 50g" id = "check4" class="checkbox_order">Chicken 65/Kabab Masala</td>
               <td id ="50gmck">50g</td>
               <td>
                 <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="50gmckquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
+              </td>
+              <td><input name="price_group_1[]" type="text" id="price4" readonly= "true"></td>
+            </tr>
+
+
+            <tr>
+              <td><input type="checkbox" name="product_group_1[]" value="Instant Chicken Masala 50g" id = "check5" class="checkbox_order">Instant Chicken Masala</td>
+              <td id ="50gmci">50g</td>
+              <td>
+                <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="50gmciquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
               </td>
               <td><input name="price_group_1[]" type="text" id="price5" readonly= "true"></td>
             </tr>
 
 
-            <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="Instant Chicken Masala 50g" id = "check6" class="checkbox_order">Instant Chicken Masala</td>
-              <td id ="50gmci">50g</td>
-              <td>
-                <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="50gmciquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
-              </td>
-              <td><input name="price_group_1[]" type="text" id="price6" readonly= "true"></td>
-            </tr>
-
-
            <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="Chicken Curry/Fry Powder 25g" id = "check7" class="checkbox_order">Chicken Curry/Fry Powder</td>
+              <td><input type="checkbox" name="product_group_1[]" value="Chicken Curry/Fry Powder 25g" id = "check6" class="checkbox_order">Chicken Curry/Fry Powder</td>
               <td id ="25gmccf">25g</td>
               <td>
                 <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="25gmccfquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
               </td>
-              <td><input name="price_group_1[]" type="text" id="price7" readonly= "true"></td>
+              <td><input name="price_group_1[]" type="text" id="price6" readonly= "true"></td>
             </tr>
             <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="Chicken Curry/Fry Powder 25g" id = "check8" class="checkbox_order">Chicken Curry/Fry Powder</td>
+              <td><input type="checkbox" name="product_group_1[]" value="Chicken Curry/Fry Powder 25g" id = "check7" class="checkbox_order">Chicken Curry/Fry Powder</td>
               <td id ="50gmccf">50g</td>
               <td>
                 <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="50gmccfquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
               </td>
-              <td><input name="price_group_1[]" type="text" id="price8" readonly= "true"></td>
+              <td><input name="price_group_1[]" type="text" id="price7" readonly= "true"></td>
             </tr>
 
 
             <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="Mutton Masala 25g" id = "check9" class="checkbox_order">Mutton Masala</td>
+              <td><input type="checkbox" name="product_group_1[]" value="Mutton Masala 25g" id = "check8" class="checkbox_order">Mutton Masala</td>
               <td id ="25gmmm">25g</td>
               <td>
                 <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="25gmmmquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
               </td>
-              <td><input name="price_group_1[]" type="text" id="price9" readonly= "true"></td>
+              <td><input name="price_group_1[]" type="text" id="price8" readonly= "true"></td>
             </tr>
             <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="Mutton Masala 25g" id = "check10" class="checkbox_order">Mutton Masala</td>
+              <td><input type="checkbox" name="product_group_1[]" value="Mutton Masala 25g" id = "check9" class="checkbox_order">Mutton Masala</td>
               <td id ="50gmmm">50g</td>
               <td>
                 <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="50gmmmquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
+              </td>
+              <td><input name="price_group_1[]" type="text" id="price9" readonly= "true"></td>
+            </tr>
+
+            <tr>
+              <td><input type="checkbox" name="product_group_1[]" value="Biryani Masala 50g" id = "check10" class="checkbox_order">Biryani Masala</td>
+              <td id ="50gmbm">50g</td>
+              <td>
+                <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="50gmbmquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
               </td>
               <td><input name="price_group_1[]" type="text" id="price10" readonly= "true"></td>
             </tr>
 
             <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="Biryani Masala 50g" id = "check11" class="checkbox_order">Biryani Masala</td>
-              <td id ="50gmbm">50g</td>
-              <td>
-                <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="50gmbmquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
-              </td>
-              <td><input name="price_group_1[]" type="text" id="price11" readonly= "true"></td>
-            </tr>
-
-            <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="Garam Masala 25g" id = "check12" class="checkbox_order">Garam Masala</td>
+              <td><input type="checkbox" name="product_group_1[]" value="Garam Masala 25g" id = "check11" class="checkbox_order">Garam Masala</td>
               <td id ="25gmgm">25g</td>
               <td>
                 <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="25gmgmquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
               </td>
-              <td><input name="price_group_1[]" type="text" id="price12" readonly= "true"></td>
+              <td><input name="price_group_1[]" type="text" id="price11" readonly= "true"></td>
             </tr>
             <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="Garam Masala 50g" id = "check13" class="checkbox_order">Garam Masala</td>
+              <td><input type="checkbox" name="product_group_1[]" value="Garam Masala 50g" id = "check12" class="checkbox_order">Garam Masala</td>
               <td id ="50gmgm">50g</td>
               <td>
                 <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="50gmgmquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
               </td>
-              <td><input name="price_group_1[]" type="text" id="price13" readonly= "true"></td>
+              <td><input name="price_group_1[]" type="text" id="price12" readonly= "true"></td>
             </tr>
 
             <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="Sambar Powder 25g" id = "check14" class="checkbox_order">Sambar Powder</td>
+              <td><input type="checkbox" name="product_group_1[]" value="Sambar Powder 25g" id = "check13" class="checkbox_order">Sambar Powder</td>
               <td id ="25gmsp">25g</td>
               <td>
                 <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="25gmspquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
               </td>
-              <td><input name="price_group_1[]" type="text" id="price14" readonly= "true"></td>
+              <td><input name="price_group_1[]" type="text" id="price13" readonly= "true"></td>
             </tr>
             <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="Sambar Powder 50g" id = "check15" class="checkbox_order">Sambar Powder</td>
+              <td><input type="checkbox" name="product_group_1[]" value="Sambar Powder 50g" id = "check14" class="checkbox_order">Sambar Powder</td>
               <td id ="50gmsp">50g</td>
               <td>
                 <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="50gmspquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
               </td>
-              <td><input name="price_group_1[]" type="text" id="price15" readonly= "true"></td>
+              <td><input name="price_group_1[]" type="text" id="price14" readonly= "true"></td>
             </tr>
 
             <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="Rasam Powder 25g" id = "check16" class="checkbox_order">Rasam Powder</td>
+              <td><input type="checkbox" name="product_group_1[]" value="Rasam Powder 25g" id = "check15" class="checkbox_order">Rasam Powder</td>
               <td id ="25gmrp">25g</td>
               <td>
                 <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="25gmrpquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
               </td>
-              <td><input name="price_group_1[]" type="text" id="price16" readonly= "true"></td>
+              <td><input name="price_group_1[]" type="text" id="price15" readonly= "true"></td>
             </tr>
             <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="Rasam Powder 50g" id = "check17" class="checkbox_order">Rasam Powder</td>
+              <td><input type="checkbox" name="product_group_1[]" value="Rasam Powder 50g" id = "check16" class="checkbox_order">Rasam Powder</td>
               <td id ="50gmrp">50g</td>
               <td>
                 <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="50gmrpquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
+              </td>
+              <td><input name="price_group_1[]" type="text" id="price16" readonly= "true"></td>
+            </tr>
+
+            <tr>
+              <td><input type="checkbox" name="product_group_1[]" value="Ginger & Garlic Paste 250g" id = "check17" class="checkbox_order">Ginger & Garlic Paste</td>
+              <td id ="250ggp">250g</td>
+              <td>
+                <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="250gmggpquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
               </td>
               <td><input name="price_group_1[]" type="text" id="price17" readonly= "true"></td>
             </tr>
 
             <tr>
-              <td><input type="checkbox" name="product_group_1[]" value="Ginger & Garlic Paste 250g" id = "check18" class="checkbox_order">Ginger & Garlic Paste</td>
-              <td id ="250ggp">250g</td>
+              <td><input type="checkbox" name="product_group_1[]" value="Red Chilli Powder 50g" id = "check18" class="checkbox_order">Red Chilli Powder</td>
+              <td id ="50gmrcp">50g</td>
               <td>
-                <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="250gmggpquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
+                <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="50gmrcpquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
               </td>
               <td><input name="price_group_1[]" type="text" id="price18" readonly= "true"></td>
             </tr>
-
+            <tr>
+              <td><input type="checkbox" name="product_group_1[]" value="Red Chilli Powder 100g" id = "check19" class="checkbox_order">Red Chilli Powder</td>
+              <td id ="100gmrcp">100g</td>
+              <td>
+                <input name="quantity_group_1[]" type="text" placeholder="Enter Quantity" id ="100gmrcpquantity" onkeypress =" return isNumberKey(event)" OnFocusOut = "get_price(this.id)">
+              </td>
+              <td><input name="price_group_1[]" type="text" id="price19" readonly= "true"></td>
+            </tr>
 
             <tr>
               <td colspan="2"></td>

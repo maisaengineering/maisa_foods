@@ -55,6 +55,12 @@ margin-top: -60px;" border="0"></div>
         </script>
 		<marquee style="position: relative;margin-top:-50px;" behavior="scroll" align="center" direction="up" scrollamount="2" scrolldelay="5" onmouseover="this.stop()" onmouseout="this.start()" height="330"><br>
 
+		 <center><a href="masalas_spices_products.php" target="_blank"><img src="images/chilli.png" width="200" alt="chilli powder" title="chilli powder" style="position: relative;" border="0"></a><br></center>
+		 <br>
+		 <center><a href="masalas_spices_products.php" target="_blank"><img src="images/coriander.png" width="200" alt="coriander powder" title="coriander powder" style="position: relative;" border="0"></a><br></center>
+		 <br>
+		 <center><a href="masalas_spices_products.php" target="_blank"><img src="images/turmeric.png" width="200" alt="turmeric powder" title="turmeric powder" style="position: relative;" border="0"></a><br></center>
+		 <br>
 		 <center><a href="masalas_spices_products.php" target="_blank"><img src="images/chickenmasala.jpg" width="200" alt="chicken masala" title="chicken masala" style="position: relative;" border="0"></a><br></center>
 		 <br>
 		 <center><a href="masalas_spices_products.php" target="_blank"><img src="images/muttonmasala.jpg" width="200" alt="mutton masala" title="mutton masala" style="position: relative;" border="0"></a><br></center>

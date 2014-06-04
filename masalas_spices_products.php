@@ -227,6 +227,71 @@ if($id=="") $id=3; ?>
     <div class="clear"></div>
     <p>&nbsp;</p>
      <p>&nbsp;</p>
+     <div>
+      <div class="box1 float">
+        <img src="images/turmeric.png" width="220px">
+            <div class="weight_rs">
+          <table width="220px" style="background:#ffffff;">
+            <tr>
+              <td>Weight</td><td>50g</td><td>100g</td>
+            </tr>
+            <tr>
+              <td>Price</td><td></td><td></td>
+            </tr>
+            <tr>
+              <table class="button_view">
+                <tr>
+              <td class="button_view"><a href="#" title="turmeric powder">View Details</a></td><td class="button_view1"><a href="maisa_order_form.php">Order Now</div></a></td>
+                </tr>
+              </table>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div class="box1 float boxmargin">
+        <img src="images/chilli.png" width="220px">
+              <div class="weight_rs">
+          <table width="220px" style="background:#ffffff;">
+            <tr>
+              <td>Weight</td><td>50g</td><td>100g</td>
+            </tr>
+            <tr>
+              <td>Price</td><td>Rs.12</td><td>Rs.23</td>
+            </tr>
+            <tr>
+              <table class="button_view">
+                <tr>
+              <td class="button_view"><a href="#" title="chilli powder">View Details</a></td><td class="button_view1"><a href="maisa_order_form.php">Order Now</div></a></td>
+                </tr>
+              </table>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <div class="box2 floatr">
+        <img src="images/coriander.png" width="220px">
+              <div class="weight_rs">
+          <table width="220px" style="background:#ffffff;">
+            <tr>
+              <td>Weight</td><td>50g</td><td>100g</td>
+            </tr>
+            <tr>
+              <td>Price</td><td></td><td></td>
+            </tr>
+            <tr>
+              <table class="button_view">
+                <tr>
+              <td class="button_view"><a href="#" title="coriander powder">View Details</a></td><td class="button_view1"><a href="maisa_order_form.php">Order Now</div></a></td>
+                </tr>
+              </table>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div class="clear"></div>
+    <p>&nbsp;</p>
+     <p>&nbsp;</p>
 	</div>	
   <?php include 'footer.php'; ?>
     </div>
