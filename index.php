@@ -18,6 +18,8 @@
 			<meta name="robots" content="index, follow"/>
 		<?php include ('analyticstracking.php'); ?>
 		<link rel="stylesheet" type="text/css" href="./css/styles.css">
+		            <script type="text/javascript" src="js/modernizr.js"></script>
+
 		<script type="text/javascript" src="./js/jquery-1.10.2.min.js"></script>
         <script type="text/javascript" src="./js/jquery-1.7.1.js"></script>
         <script type="text/javascript" src="./js/popup.js"></script>
@@ -36,8 +38,7 @@
 	<img src="images/about_maisa.jpg">
 	    <div style="margin:10px;color:#000">
 	    	<br>
-	    	<iframe width="280" height="280" src="//www.youtube.com/embed/YpZ2a8NVeLU" frameborder="0" allowfullscreen></iframe>
-        </div>
+<iframe width="280" height="280" src="//www.youtube.com/embed/VBJr5Wrwges" frameborder="0" allowfullscreen></iframe>        </div>
 </div>	
 <div class="block_two">
 	<br>

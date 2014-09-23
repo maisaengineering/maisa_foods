@@ -37,16 +37,16 @@ if($id=="") $id=5; ?>
 					</td>
 				    </table>
 		        </td>
-		        <td>
+		        <td><br>
 				    <div class="location_header">Customer Service:</div>
 					<table class="locations">
 					<td class="location_1">
 						<div class="location_2_details">
 							Call Us<br/>
-							8008344449<br>
+							1800 3010 0609<br>
 							040-40177227<br/>
 								Email Us<br/>
-							contact@maisafoods.com
+							maisafoods@gmail.com
 							<br/>
 							<br/>
 						</div>

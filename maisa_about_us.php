@@ -26,25 +26,16 @@ if($id=="") $id=2; ?>
     	<img src="images/about_maisa_group.jpg">
 	<br>
 	    <div class="about_maisa_group">
-	    	<ul>
-	    		<li>Dedicated and Motivated Team</li>
-	   
-			    <li>Loyal customers</li>
-		      
-		        <li>Continuous market analysis and Survey of customer needs</li>
-		     
-		        <li>Strong resources & Marketing Network</li>
-		       
-		        <li>Excellent Quality products</li>
-		      
-		        <li>Standardization & upgradation of products as per international standards</li>
-		       
-		        <li>Adherence to International business standard ethics</li>
-		      
-		        <li>Targetting the market of all walks of life</li>
-		      
-		        <li>Excellent Brand Recall</li>
-            </ul>
+	    	<p style="text-align:justify">The food industry, overflowing with rich growth opportunities beckons business people, enterprenuers.So, Maisa Foods come into being in 2007.It was the success tipped venture of Mr.Pradeep Reddy, a familiar name in the poultry industry for nearly 3 decades . His brother Chandan Reddy, a USA based student supports the development and consolidation efforts of Maisa.
+
+He believes that Quality is the backbone of a successful business. Having seen the growth of the broilers retail market from close quarters he is more than convinced him that the opportunity to take the enterprise to the next level, has come . This time in the shape of Maisa Masalas. A range of cooking masalas known for their true spiciness.</p>
+	    	
+  
+            <h3>Vision</h3>
+            <p>To be the dominant presence in the kitchen during meal times and spread smiles and happiness.</p>
+            <h3>Mission</h3>
+            <p>To be self committed, health focused and customer-centric in maintaining excellent standards at every stage of production till delivery.</p>
+            <br>
         </div>
 </div>
 </div>
