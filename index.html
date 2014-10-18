@@ -9,11 +9,15 @@
 <meta name="author" content="maisafoods.com"/>
 <meta name="robots" content="index, follow"/>
 
-<link href="styles/styles.css" rel="stylesheet" type="text/css" />
-<link href="styles/jcarousel.ajax.css" rel="stylesheet" type="text/css" />
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
+<link href="css/jcarousel.ajax.css" rel="stylesheet" type="text/css" />
+<link href="css/jquery.fancybox.css" rel="stylesheet" type="text/css" />
 <link href="images/fav.png" rel="icon" type="image/gif" />
 
 <script src="js/jquery.js" type="text/javascript" language="javascript"></script>
+<script src="js/jquery.fancybox.js" type="text/javascript" language="javascript"></script>
+<script src="js/jquery.fancybox-media.js" type="text/javascript" language="javascript"></script>
+
 <script src="js/jcarousel.ajax.js" type="text/javascript" language="javascript"></script>
 <script src="js/jcarousel.min.js" type="text/javascript" language="javascript"></script>
 <script src="js/script.js" type="text/javascript" language="javascript"></script>
@@ -21,26 +25,16 @@
 
 <body>
 <div class="body_wrapper">
-    <div class="menu_wrapper" style="border:1px solid #000000;width:100%;height:120px">
+    <div class="menu_wrapper menu_header">
         <div class="wrapper">
             <div class="logo"><a href="index.html"><img src="images/logo.png" width="200px"></a></div>
                   <ul class="menu" id="menu">
             
-                <li><a href="index.html" class="menulink">Home</a></li>
+                <li class="menu_active"><a href="index.html" class="menulink">Home</a></li>
                 <li class="devider"><img src="images/spacer.gif" /></li>
                 <li><a href="aboutus.html" class="menulink">About Us</a></li>
                 <li class="devider"><img src="images/spacer.gif" /></li>
-                <li><a href="#" class="menulink">Products</a>
-                    <ul>
-                        <li><a href="biryani.html">Biryani Masala</a></li>
-                        <li><a href="garam_masala.html">Garam Masala</a></li>
-                        <li><a href="sambar_powder.html">Sambar Powder</a></li>
-                        <li><a href="rasam.html">Rasam Powder</a></li>
-                        <li><a href="mutton.html">Mutton Masala</a></li>
-                        <li><a href="instant_chicken.html">Instant Chicken Masala</a></li>
-                        <li><a href="chicken_masala.html">Chicken Masala</a></li>
-                        <li><a href="kabab.html">Chicken65 & Kabab Masala</a></li>
-                    </ul>
+                <li><a href="products.html" class="menulink">Products</a>
                 </li>
                 <li class="devider"><img src="images/spacer.gif" /></li>
                 <li><a href="News.html" class="menulink">News & Events</a></li>
@@ -66,7 +60,7 @@
     </div>
     <div class="redpatch">
     	<div class="wrapper">
-            <div class="tv_img"><iframe style="margin-left:35px; margin-top:73px;" width="260" height="175" src="http://www.youtube.com/embed/YpZ2a8NVeLU" frameborder="0" allowfullscreen></iframe></div>
+            <div class="tv_img"><a class="fancybox-media" href="http://www.youtube.com/watch?v=VBJr5Wrwges"><img src="images/telivision.png" width="450px"></a></div>
             <div class="dishes"><img src="images/dishes.png" /></div>
 		</div>
     </div>
@@ -92,10 +86,42 @@
     <div class="footer">
         <div class="footer-wrapper">
             <div class="left">&copy; 2014 Maisa&#8482; Foods. All rights reserved.</div>
-            <div class="right"><a href="http://www.nrkadsystems.com" target="_blank">http://www.nrkadsystems.com</a></div>
+
             <div class="cls"></div>
         </div>
     </div>
 </div>
+<script type="text/javascript">
+    $(document).ready(function() {
+      /*
+       *  Simple image gallery. Uses default settings
+       */
+
+      $('.fancybox').fancybox();
+
+      /*
+      /*
+       *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
+      */
+      $('.fancybox-media')
+        .attr('rel', 'media-gallery')
+        .fancybox({
+          openEffect : 'none',
+          closeEffect : 'none',
+          prevEffect : 'none',
+          nextEffect : 'none',
+
+          arrows : false,
+          helpers : {
+            media : {},
+            buttons : {}
+          }
+        });
+
+      /*
+       *  Open manually
+       */
+    });
+  </script>
 </body>
 </html>

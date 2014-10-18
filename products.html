@@ -8,7 +8,7 @@
 <meta name="keywords" content="spices,instantfoods,blendedSpices,spices,maisamasalas,chicken nuggets,chicken crackers,garam masala,vegetarian masala,non-vegetarian masala,chicken masala,mutton masala,sambar powder,rasam powder,chicken 65 masala,chicken kabab masala,biryani masala,instant chicken masala,ginger and garlic paste" />
 <meta name="author" content="maisafoods.com"/>
 <meta name="robots" content="index, follow"/>
-<link href="styles/styles.css" rel="stylesheet" type="text/css" />
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
 <link href="images/fav.png" rel="icon" type="image/gif" />
 
 <script src="js/jquery-1.10.2.min.js" type="text/javascript" language="javascript"></script>
@@ -16,7 +16,7 @@
 </head>
 
 <body>
-    <div class="menu_wrapper" style="border:1px solid #000000;width:100%;height:120px">
+    <div class="menu_wrapper menu_header">
         <div class="wrapper">
             <div class="logo"><a href="index.html"><img src="images/logo.png" width="200px"></a></div>
                   <ul class="menu" id="menu">
@@ -25,17 +25,7 @@
                 <li class="devider"><img src="images/spacer.gif" /></li>
                 <li><a href="aboutus.html" class="menulink">About Us</a></li>
                 <li class="devider"><img src="images/spacer.gif" /></li>
-                <li><a href="#" class="menulink">Products</a>
-                    <ul>
-                        <li><a href="biryani.html">Biryani Masala</a></li>
-                        <li><a href="garam_masala.html">Garam Masala</a></li>
-                        <li><a href="sambar_powder.html">Sambar Powder</a></li>
-                        <li><a href="rasam.html">Rasam Powder</a></li>
-                        <li><a href="mutton.html">Mutton Masala</a></li>
-                        <li><a href="instant_chicken.html">Instant Chicken Masala</a></li>
-                        <li><a href="chicken_masala.html">Chicken Masala</a></li>
-                        <li><a href="kabab.html">Chicken65 & Kabab Masala</a></li>
-                    </ul>
+                <li class="menu_active"><a href="products.html" class="menulink">Products</a>
                 </li>
                 <li class="devider"><img src="images/spacer.gif" /></li>
                 <li><a href="News.html" class="menulink">News & Events</a></li>
@@ -50,34 +40,48 @@
         </div>
         </div>
 <div class="content_wrapper" style="background:">
-    <img src="images/masalas.jpg" width="980px">
+    <div class="banner"><img src="images/banners/inner_banner1.png" width="980px" /></div>
     <br />
-    <div style="width:900px;float:left;margin-left:88px;margin-top: 30px;">
-    <div style="width:300px;float:left;"><img src="images/biryanimasala.jpg" width="180px"></div>
-    <div style="width:300px;float:right;"><img src="images/sambarpowder.jpg" width="180px"></div>
-    <div style="width:300px;float:right;"><img src="images/sambarpowder.jpg" width="180px"></div>
+    <div class="product_block">
+    <div class="product_left"><a href="#"><img src="images/chatmasala.jpg" width="180px"><br><div class="p_name">Chat Masala</div></a></div>
+    <div class="product_right"><a href="#"><img src="images/noodlesmasala.jpg" width="180px"><br><div class="p_name">Noodles Masala</div></a></div>
+    <div class="product_right"><a href="#"><img src="images/sbhjimasala.jpg" width="180px"><br><div class="p_name">Sabji Masala</div></a></div>
     </div>
-    <div style="width:900px;float:left;margin-left:88px;margin-top: 30px;">
-    <div style="width:300px;float:left;"><img src="images/biryanimasala.jpg" width="180px"></div>
-    <div style="width:300px;float:right;"><img src="images/sambarpowder.jpg" width="180px"></div>
-    <div style="width:300px;float:right;"><img src="images/sambarpowder.jpg" width="180px"></div>
+    <hr>
+    <div class="product_block">
+   <div class="product_left"><a href="biryani.html"><img src="images/biryanimasala.jpg" width="180px"><br><div class="p_name">Biryani Masala</div></a></div>
+    <div class="product_right"><a href="sambar_powder.html"><img src="images/sambarpowder.jpg" width="180px"><br><div class="p_name">Sambar Powder</div></a></div>
+    <div class="product_right"><a href="rasam.html"><img src="images/rasampowder.jpg" width="180px"><br><div class="p_name">Rasam Powder</div></a></div>
     </div>
-    <div style="width:900px;float:left;margin-left:88px;margin-top: 30px;">
-    <div style="width:300px;float:left;"><img src="images/biryanimasala.jpg" width="180px"></div>
-    <div style="width:300px;float:right;"><img src="images/sambarpowder.jpg" width="180px"></div>
-    <div style="width:300px;float:right;"><img src="images/sambarpowder.jpg" width="180px"></div>
+    <hr>
+    <div class="product_block">
+    <div class="product_left"><a href="chicken_masala.html"><img src="images/chickenmasala.jpg" width="180px"><br><div class="p_name">Chicken Masala</div></a></div>
+    <div class="product_right"><a href="mutton.html"><img src="images/muttonmasala.jpg" width="180px"><br><div class="p_name">Mutton Masala</div></a></div>
+    <div class="product_right"><a href="#"><img src="images/chickencurrypowder.jpg" width="180px"><br><div class="p_name">Chicken Curry Powder</div></a></div>
     </div>
-    <div style="width:900px;float:left;margin-left:88px;margin-top: 30px;">
-    <div style="width:300px;float:left;"><img src="images/biryanimasala.jpg" width="180px"></div>
-    <div style="width:300px;float:right;"><img src="images/sambarpowder.jpg" width="180px"></div>
-    <div style="width:300px;float:right;"><img src="images/sambarpowder.jpg" width="180px"></div>
+    <hr>
+    <div class="product_block">
+    <div class="product_left"><a href="kabab.html"><img src="images/chicken65kababmasala.jpg" width="180px"><br><div class="p_name">Chicken 65 Masala</div></a></div>
+    <div class="product_right"><a href="instant_chicken.html"><img src="images/instantchickenmasala.jpg" width="180px"><br><div class="p_name">Instant Chicken Masala</div></a></div>
+    <div class="product_right"><a href="garam_masala.html"><img src="images/garammasala.jpg" width="180px"><br><div class="p_name">Garam Masala</div></div>
+    </div>
+    <hr>
+    <div class="product_block">
+    <div class="product_left"><a href="#"><img src="images/desichickenmasala.jpg" width="180px"><div class="p_name">Desi Chicken Masala</div></a></div>
+    <div class="product_right"><a href="#"><img src="images/ggp.jpg" width="180px"><div class="p_name">Ginger Garlic Paste</div></a></div>
+    <div class="product_right"><a href="#"><img src="images/pachhipulusu.jpg" width="180px"><div class="p_name">Pachhi Pulusu</div></a></div>
+    </div>
+    <hr>
+     <div class="product_block">
+    <div class="product_left"><a href="#"><img src="images/chilli.jpg" width="180px"><div class="p_name">Chilli Powder</div></a></div>
+    <div class="product_right"><a href="#"><img src="images/coriander.jpg" width="180px"><div class="p_name">Coriander Powder</div></a></div>
+    <div class="product_right"><a href="#"><img src="images/turmeric.jpg" width="180px"><div class="p_name">Turmeric Powder</div></a></div>
     </div>
     <div class="cls"></div>
 </div>
 <div class="footer">
 	<div class="footer-wrapper">
     	<div class="left">&copy; 2014 Maisa&#8482; Foods. All rights reserved.</div>
-        <div class="right"><a href="http://www.nrkadsystems.com" target="_blank">http://www.nrkadsystems.com</a></div>
         <div class="cls"></div>
     </div>
 </div>

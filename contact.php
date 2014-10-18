@@ -8,7 +8,7 @@
 <meta name="keywords" content="spices,instantfoods,blendedSpices,spices,maisamasalas,chicken nuggets,chicken crackers,garam masala,vegetarian masala,non-vegetarian masala,chicken masala,mutton masala,sambar powder,rasam powder,chicken 65 masala,chicken kabab masala,biryani masala,instant chicken masala,ginger and garlic paste" />
 <meta name="author" content="maisafoods.com"/>
 <meta name="robots" content="index, follow"/>
-<link href="styles/styles.css" rel="stylesheet" type="text/css" />
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
 <link href="images/fav.png" rel="icon" type="image/gif" />
 
 <script src="js/jquery-1.10.2.min.js" type="text/javascript" language="javascript"></script>
@@ -16,7 +16,7 @@
 </head>
 
 <body>
-	<div class="menu_wrapper" style="border:1px solid #000000;width:100%;height:120px">
+	<div class="menu_wrapper menu_header">
         <div class="wrapper">
             <div class="logo"><a href="index.html"><img src="images/logo.png" width="200px"></a></div>
                   <ul class="menu" id="menu">
@@ -25,22 +25,12 @@
                 <li class="devider"><img src="images/spacer.gif" /></li>
                 <li><a href="aboutus.html" class="menulink">About Us</a></li>
                 <li class="devider"><img src="images/spacer.gif" /></li>
-                <li><a href="#" class="menulink">Products</a>
-                    <ul>
-                        <li><a href="biryani.html">Biryani Masala</a></li>
-                        <li><a href="garam_masala.html">Garam Masala</a></li>
-                        <li><a href="sambar_powder.html">Sambar Powder</a></li>
-                        <li><a href="rasam.html">Rasam Powder</a></li>
-                        <li><a href="mutton.html">Mutton Masala</a></li>
-                        <li><a href="instant_chicken.html">Instant Chicken Masala</a></li>
-                        <li><a href="chicken_masala.html">Chicken Masala</a></li>
-                        <li><a href="kabab.html">Chicken65 & Kabab Masala</a></li>
-                    </ul>
+                <li><a href="products.html" class="menulink">Products</a>
                 </li>
                 <li class="devider"><img src="images/spacer.gif" /></li>
                 <li><a href="News.html" class="menulink">News & Events</a></li>
                 <li class="devider"><img src="images/spacer.gif" /></li>
-                <li><a href="contact.php" class="menulink">Contact Us</a></li>
+                <li class="menu_active"><a href="contact.php" class="menulink">Contact Us</a></li>
                 
             </ul>
             <script type="text/javascript">
@@ -73,8 +63,8 @@
 			   Plot No. 26, New vasavishiva nagar <br/>
 			   Kushaiguda, Ecil,Hyderabad-500062<br/>
 			   Phone No: 040-40177227, <br/>
-			   Mobile : 8008344449<br/>
-			   Email: contact@maisafoods.com 
+			   Customer Service No: 1800 3010 0609<br/>
+			   Email: maisafoods@gmail.com 
 			 </p>
 			 <h2>Contact Form</h2>
 		
@@ -100,7 +90,7 @@
 						</form>
 						
 						<?php 
-	$emailTo = 'naveen.maisasolutions@gmail.com';
+	$emailTo = 'maisafoods@gmail.com';
 	if($subject!=""){
 	$subject =$_REQUEST['subject'];
 	}else{
@@ -122,7 +112,7 @@
 <div class="footer">
 	<div class="footer-wrapper">
     	<div class="left">&copy; 2014 Maisa&#8482; Foods. All rights reserved.</div>
-        <div class="right"><a href="http://www.nrkadsystems.com" target="_blank">http://www.nrkadsystems.com</a></div>
+        
         <div class="cls"></div>
     </div>
 </div>

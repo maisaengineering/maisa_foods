@@ -8,7 +8,7 @@
 <meta name="keywords" content="spices,instantfoods,blendedSpices,spices,maisamasalas,chicken nuggets,chicken crackers,garam masala,vegetarian masala,non-vegetarian masala,chicken masala,mutton masala,sambar powder,rasam powder,chicken 65 masala,chicken kabab masala,biryani masala,instant chicken masala,ginger and garlic paste" />
 <meta name="author" content="maisafoods.com"/>
 <meta name="robots" content="index, follow"/>
-<link href="styles/styles.css" rel="stylesheet" type="text/css" />
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
 <link href="images/fav.png" rel="icon" type="image/gif" />
 
 <script src="js/jquery-1.10.2.min.js" type="text/javascript" language="javascript"></script>
@@ -16,9 +16,32 @@
 </head>
 
 <body>
+    <div class="menu_wrapper menu_header">
+        <div class="wrapper">
+            <div class="logo"><a href="index.html"><img src="images/logo.png" width="200px"></a></div>
+                  <ul class="menu" id="menu">
+            
+                <li><a href="index.html" class="menulink">Home</a></li>
+                <li class="devider"><img src="images/spacer.gif" /></li>
+                <li><a href="aboutus.html" class="menulink">About Us</a></li>
+                <li class="devider"><img src="images/spacer.gif" /></li>
+                <li class="menu_active"><a href="products.html" class="menulink">Products</a>
+                    
+                </li>
+                <li class="devider"><img src="images/spacer.gif" /></li>
+                <li><a href="News.html" class="menulink">News & Events</a></li>
+                <li class="devider"><img src="images/spacer.gif" /></li>
+                <li><a href="contact.php" class="menulink">Contact Us</a></li>
+                
+            </ul>
+            <script type="text/javascript">
+                var menu=new menu.dd("menu");
+                menu.init("menu","menuhover");
+            </script>
+        </div>
+        </div>
 <div class="content_wrapper">
     <div class="content_wrapper_left">
-    	<div class="logo"><a href="index.html"><img src="images/logo.png" border="0" /></a></div>
         <div class="fsslCode"><img src="images/fssl_code.png" border="0" /></div>
         <div class="productslist">
         	<div style="position:absolute; margin:25px 0 0 35px;"><a href="biryani.html"><img src="images/products/1_small.png" border="0"/></a></div>
@@ -32,37 +55,6 @@
         </div>
     </div>
     <div class="content_wrapper_right">
-    	<div class="menu_wrapper">
-        	<ul class="menu" id="menu">
-                <li><img src="images/menu_leftbg.png" border="0"/></li>
-                <li><a href="index.html" class="menulink">Home</a></li>
-                <li class="devider"><img src="images/spacer.gif" /></li>
-                <li><a href="aboutus.html" class="menulink">About Us</a></li>
-                <li class="devider"><img src="images/spacer.gif" /></li>
-                <li><a href="#" class="menulink">Products</a>
-                    <ul>
-                        <li><a href="biryani.html">Biryani Masala</a></li>
-						<li><a href="garam_masala.html">Garam Masala</a></li>
-						<li><a href="sambar_powder.html">Sambar Powder</a></li>
-						<li><a href="rasam.html">Rasam Powder</a></li>
-						<li><a href="mutton.html">Mutton Masala</a></li>
-						<li><a href="instant_chicken.html">Instant Chicken Masala</a></li>
-						<li><a href="chicken_masala.html">Chicken Masala</a></li>
-						<li><a href="kabab.html">Chicken65 & Kabab Masala</a></li>
-					</ul>
-                </li>
-                <li class="devider"><img src="images/spacer.gif" /></li>
-                <li><a href="News.html" class="menulink">News & Events</a></li>
-                <li class="devider"><img src="images/spacer.gif" /></li>
-                <li><a href="contact.php" class="menulink">Contact Us</a></li>
-                <li><img src="images/menu_rightbg.png" border="0"/></li>
-            </ul>
-            <script type="text/javascript">
-                var menu=new menu.dd("menu");
-                menu.init("menu","menuhover");
-            </script>
-            <div class="cls"></div>
-        </div>
          <div class="banner" style="background:url(images/banners/chicken_masala.png) no-repeat; height:285px; margin-top: 50px;">
 		<!--<img src="images/banners/biryani_masala.png" border="0" />--><br/><br/><br/>
 		<div class="title">
@@ -104,7 +96,7 @@
 <div class="footer">
 	<div class="footer-wrapper">
     	<div class="left">&copy; 2014 Maisa&#8482; Foods. All rights reserved.</div>
-        <div class="right"><a href="http://www.nrkadsystems.com" target="_blank">http://www.nrkadsystems.com</a></div>
+       
         <div class="cls"></div>
     </div>
 </div>
