@@ -42,6 +42,6 @@
                 .jcarousel('reload');
         };
 
-        $.getJSON('data.json', setup);
+        
     });
 })(jQuery);

@@ -5,7 +5,9 @@ body{
 	line-height:18px;
 	margin:0 auto;
 }
-
+.fb-like{
+	float: right;
+}
 .body_wrapper {
 	background:url(../images/bg_texture.png) no-repeat center top;
 	margin:0 auto;
