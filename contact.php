@@ -98,7 +98,7 @@
 	}
 	$name=$_REQUEST['name'];
 	$email=$_REQUEST['email'];
-	$msg=$_REQUEST['comment'];
+	$msg=$_REQUEST['msg'];
 	
 	$body = "Name: $name \n\nEmail: $email \n\nMessage: $msg";
 	$headers = 'From: '.$name.' <'.$email.'>' . "\r\n" . 'Reply-To: ' . $email;
