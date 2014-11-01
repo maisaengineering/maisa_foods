@@ -58,7 +58,7 @@ body{
 	width: 650px;
 }
 
-ul.menu {list-style:none; float:right;margin:44px; padding:0; font-size:11px;margin-top: 60px;}
+ul.menu {list-style:none; float:right;margin:60px; padding:0; font-size:11px;margin-top: 20px;}
 ul.menu * {margin:0; padding:0;}
 ul.menu a {display:block; color:#fff; text-decoration:none}
 ul.menu li {position:relative; float:left;}
@@ -75,6 +75,14 @@ ul.menu .sub a:hover {background:}
 ul.menu .topline {border-top:1px solid #005390}
 ul.menu .devider {background:url() no-repeat; height:45px; width:3px; padding:0px; margin:0px; float:left;}
 
+.fb_block{
+	height: 40px;
+}
+.fb_like{
+	float:right;
+	margin-right:78px;
+	margin-top:10px;
+}
 .content_wrapper_left {
 	float:left;
 	width:305px;

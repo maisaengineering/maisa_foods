@@ -19,6 +19,12 @@
 	<div class="menu_wrapper menu_header">
         <div class="wrapper">
             <div class="logo"><a href="index.html"><img src="images/logo.png" width="200px"></a></div>
+            <div class="fb_block">
+              <div class="fb_like">
+              <div id="fb-root"></div>
+              <div class="fb-like" data-href="https://www.facebook.com/MaisaFoods" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+              </div>
+            </div>
                   <ul class="menu" id="menu">
             
                 <li><a href="index.html" class="menulink">Home</a></li>
@@ -89,9 +95,9 @@
 							</table>
 						</form>
 						
-						<?php 
+							<?php 
 	$emailTo = 'maisafoods@gmail.com';
-	if($subject!=""){
+	if($subject!=''){
 	$subject =$_REQUEST['subject'];
 	}else{
 	$subject = 'Contacting for Masala Powders';
@@ -112,8 +118,7 @@
 <div class="footer">
 	<div class="footer-wrapper">
     	<div class="left">&copy; 2014 Maisa&#8482; Foods. All rights reserved.</div>
-    	<div id="fb-root"></div>
-        <div class="fb-like" data-href="https://www.facebook.com/MaisaFoods" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+    	<div class="right">Designed & Developed by <a href="http://www.maisasolutions.com" target="new"><img src="images/maisasolutions.jpg" width="150px"></a></div>
         <div class="cls"></div>
     </div>
 </div>
