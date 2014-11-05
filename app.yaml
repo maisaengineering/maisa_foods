@@ -1,5 +1,5 @@
 application: maisagroupfoods
-version: 21
+version: 29
 runtime: php
 api_version: 1
 
@@ -16,6 +16,14 @@ handlers:
   static_dir: js
   application_readable: true
 
+- url: /sitemap.xml
+  static_files: sitemap.xml
+  upload: sitemap.xml
+
+- url: /robots.txt
+  static_files: robots.txt
+  upload: robots.txt
+  
 - url: /(.+)\.(.+)
   script: \1.\2
 
