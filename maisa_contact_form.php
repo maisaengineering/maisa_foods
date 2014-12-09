@@ -17,7 +17,7 @@ $message = " Name  : $name\n\n Phone Number : $phone\n\n Product Name : $product
 
 $mail_options = [
     "sender" => "chandan.benjaram@gmail.com",
-    "to" => "contact@maisafoods.com",
+    "to" => "contact@maisa.co.in",
     "subject" => "Order Form",
     "textBody" => $message
 ];

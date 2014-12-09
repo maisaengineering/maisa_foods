@@ -4,7 +4,7 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-48401007-1', 'maisafoods.com');
+  ga('create', 'UA-48401007-1', 'maisa.co.in');
   ga('send', 'pageview');
 
 </script>

@@ -6,71 +6,71 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://www.maisafoods.com/</loc>
+  <loc>http://www.maisa.co.in/</loc>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/index.php</loc>
+  <loc>http://www.maisa.co.in/index.php</loc>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/maisa_about_us.php</loc>
+  <loc>http://www.maisa.co.in/maisa_about_us.php</loc>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/spices_instantfood_products.php</loc>
+  <loc>http://www.maisa.co.in/spices_instantfood_products.php</loc>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/masalas_spices_products.php</loc>
+  <loc>http://www.maisa.co.in/masalas_spices_products.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/maisa_instantfood.php</loc>
+  <loc>http://www.maisa.co.in/maisa_instantfood.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/maisa_order_form.php</loc>
+  <loc>http://www.maisa.co.in/maisa_order_form.php</loc>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/maisa_contact_us.php</loc>
+  <loc>http://www.maisa.co.in/maisa_contact_us.php</loc>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/garam_masala_spices.php</loc>
+  <loc>http://www.maisa.co.in/garam_masala_spices.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/sambar_powder_spices.php</loc>
+  <loc>http://www.maisa.co.in/sambar_powder_spices.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/rasam_powder_spices.php</loc>
+  <loc>http://www.maisa.co.in/rasam_powder_spices.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/biryani_masala_spices.php</loc>
+  <loc>http://www.maisa.co.in/biryani_masala_spices.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/instantchicken_masala_spices.php</loc>
+  <loc>http://www.maisa.co.in/instantchicken_masala_spices.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/chicken_masala_spices.php</loc>
+  <loc>http://www.maisa.co.in/chicken_masala_spices.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/mutton_masala_spices.php</loc>
+  <loc>http://www.maisa.co.in/mutton_masala_spices.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/chicken65_chickenkabab_masala.php</loc>
+  <loc>http://www.maisa.co.in/chicken65_chickenkabab_masala.php</loc>
   <priority>0.9</priority>
 </url>
 <url>
-  <loc>http://www.maisafoods.com/chicken_nuggets.php</loc>
+  <loc>http://www.maisa.co.in/chicken_nuggets.php</loc>
   <priority>0.9</priority>
 </url>
 </urlset>

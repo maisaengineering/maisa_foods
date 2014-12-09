@@ -19,18 +19,18 @@
 
 	<div class="footer_text">
 	<div class="reserved">
-	<p>&#169;2014 Maisa&#8482; Foods. All rights reserved.</p><br><br><p style="margin-left: 10px;margin-top: -35px;">Designed & Developed by</p>
+	<p>&#169;2014 Maisa Foods. All rights reserved.</p><br><br><p style="margin-left: 10px;margin-top: -35px;">Designed & Developed by</p>
 	</div>
 	<div class="maisasolutions">
-	<a href="http://maisasolutions.com" target="_blank">	
-	<img src="images/Icon_80_transparent.png" width="40px">
-    </a>
+		<a href="http://maisasolutions.com" target="_blank">
+			<img src="http://maisasolutions.com/css/images/Icon_150_transparent.png" style="height:auto; width:auto; max-width:55px; max-height:55px;">
+	  </a>
 	</div>
 	</div>
 	<div class="fssl">
 	<img src="images/fssl.png" width="180px">
 	</div>
-    
+
 </div>
   <!-- <div class="social-icons">
     <ul>
@@ -39,4 +39,4 @@
         </li>
     </ul>
   </div>   -->
-</div>  
+</div>
