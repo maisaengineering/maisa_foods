@@ -30,7 +30,7 @@ if($id=="") $id=5; ?>
 					<td class="location_1">
 						<div class="location_2_details">
 							Plot No. 26<br/>
-							New vasavishiva nagar<br/>
+							New Vasavi Shiva Nagar<br/>
 							Kushaiguda, Ecil<br/>
 							Hyderabad-500062<br/>
 						</div>
