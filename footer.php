@@ -19,7 +19,7 @@
 
 	<div class="footer_text">
 	<div class="reserved">
-	<p>&#169;2014 Maisa Foods. All rights reserved.</p><br><br><p style="margin-left: 10px;margin-top: -35px;">Designed & Developed by</p>
+	<p>&#169;2020 Maisa Foods. All rights reserved.</p><br><br><p style="margin-left: 10px;margin-top: -35px;">Designed & Developed by</p>
 	</div>
 	<div class="maisasolutions">
 		<a href="http://maisasolutions.com" target="_blank">
