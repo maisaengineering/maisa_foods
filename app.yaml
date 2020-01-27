@@ -1,6 +1,4 @@
-application: maisagroupfoods
-version: 29
-runtime: php
+runtime: php55
 api_version: 1
 
 handlers:
@@ -23,7 +21,7 @@ handlers:
 - url: /robots.txt
   static_files: robots.txt
   upload: robots.txt
-  
+
 - url: /(.+)\.(.+)
   script: \1.\2
 

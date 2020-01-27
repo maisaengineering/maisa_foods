@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow:
 Disallow: /cgi-bin/
-Sitemap: http://www.maisa.co.in/sitemap.xml
-
+Sitemap: http://www.maisafoods.com/sitemap.xml
